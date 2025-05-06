@@ -1,0 +1,6 @@
+// Commands for this project 
+
+Main command to complie all files, practice.cpp comes in the first place then rest of the files follow. 
+
+
+cl /EHsc practice.cpp .\DailyQuestion\dailyquestion.cpp .\Sorting\sorting.cpp .\Helper\helper.cpp .\LeetCodeContest\leetcodecontest.cpp

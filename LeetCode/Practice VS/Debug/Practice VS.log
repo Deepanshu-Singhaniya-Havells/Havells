@@ -1,0 +1,5 @@
+﻿  Practice VS.cpp
+C:\Users\37906\OneDrive - Havells\Desktop\Leetcode\Practice VS\Practice VS.cpp(24,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\37906\OneDrive - Havells\Desktop\Leetcode\Practice VS\Practice VS.cpp(30,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\37906\OneDrive - Havells\Desktop\Leetcode\Practice VS\Practice VS.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+  Practice VS.vcxproj -> C:\Users\37906\OneDrive - Havells\Desktop\Leetcode\Practice VS\Debug\Practice VS.exe

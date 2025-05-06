@@ -1,0 +1,10 @@
+Here are the list of commands 
+
+To compile open Developer Powershell for VS 2019
+cl /EHsc filenamep.cpp
+
+
+command to create a new file
+
+type nul > example.txt
+echo content > filename.extension( this command can be used when you want to put some content in your file)
