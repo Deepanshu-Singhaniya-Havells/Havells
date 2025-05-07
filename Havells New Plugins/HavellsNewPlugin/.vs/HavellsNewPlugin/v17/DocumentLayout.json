@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\Plugins\\Havells New Plugins\\HavellsNewPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42926152-F274-4163-A8CD-251EF22652E0}|HavellsNewPlugin.csproj|c:\\users\\39054\\onedrive - havells\\desktop\\havells projects\\azure devops\\plugins\\havells new plugins\\havellsnewplugin\\case\\restricassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42926152-F274-4163-A8CD-251EF22652E0}|HavellsNewPlugin.csproj|solutionrelative:case\\restricassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestricAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\Plugins\\Havells New Plugins\\HavellsNewPlugin\\Case\\RestricAssignment.cs",
+              "RelativeDocumentMoniker": "Case\\RestricAssignment.cs",
+              "ToolTip": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\Plugins\\Havells New Plugins\\HavellsNewPlugin\\Case\\RestricAssignment.cs",
+              "RelativeToolTip": "Case\\RestricAssignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:15.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
