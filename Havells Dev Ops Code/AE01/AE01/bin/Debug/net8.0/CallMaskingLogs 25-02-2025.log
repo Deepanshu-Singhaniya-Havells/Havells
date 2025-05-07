@@ -1,0 +1,4 @@
+{ "timestamp": "42Z", "level": "Info", "message": "Hello from Nlog" }
+{ "timestamp": "42Z", "level": "Error", "message": "Error from Nlog" }
+{ "timestamp": "42Z", "level": "Fatal", "message": "Fatal from Nlog" }
+{ "timestamp": "42Z", "level": "Warn", "message": "Warn from Nlog" }

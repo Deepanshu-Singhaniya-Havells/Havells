@@ -1,0 +1,2564 @@
+[
+    {
+        "JobId": "0503218553481",
+        "ProductCategory": "",
+        "ProductSubCategory": "",
+        "CustomerName": "Karyath enterprices",
+        "PhoneNubmer": "8281224248",
+        "PINCode": "691306",
+        "AlternateNumber": "9446964190",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Registered",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580610",
+        "ProductCategory": "LLOYD AIR CONDITIONER",
+        "ProductSubCategory": "SPLIT 0.8-2.0 T INV 3S R-32",
+        "CustomerName": "Kailash Sharma",
+        "PhoneNubmer": "9810290761",
+        "PINCode": "174303",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "WET SERVICE DONE AC WORKING OK ",
+        "CustomerComplaintDescription": "Service by Havells Sync APP",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GLS18I3KWSBV",
+                "ModelName": "GLS18I3KWSBV",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "07-04-2023 00:00:00",
+                "Observation": "WET SERVICE",
+                "Cause": "HEAT EXCHANGER CLOG",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Serviced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580612",
+        "ProductCategory": "LLOYD AIR CONDITIONER",
+        "ProductSubCategory": "SPLIT 0.8-2.0 T INV 3S R-32",
+        "CustomerName": "SURAJIT BAROI",
+        "PhoneNubmer": "8375055135",
+        "PINCode": "732101",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "PMS DONE ",
+        "CustomerComplaintDescription": "want to do free service.",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GLS18I3FWAMC",
+                "ModelName": "GLS18I3FWAMC",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "11-06-2023 00:00:00",
+                "Observation": "DRY SERVICE",
+                "Cause": "DRY SERVICE",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Serviced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580627",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS LOOP ALKALINE",
+        "CustomerName": "LALITHA MADUSUDAN",
+        "PhoneNubmer": "9538350464",
+        "PINCode": "570028",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580630",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS ALBUS",
+        "CustomerName": "Nagaraj",
+        "PhoneNubmer": "8147503825",
+        "PINCode": "577427",
+        "AlternateNumber": "7760040392",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHWRALW015",
+                "ModelName": "GHWRALW015",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "27-10-2023 00:00:00",
+                "Observation": "Sediment cartridge",
+                "Cause": "Mechanical Noise",
+                "Products": [
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX048-Tap - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX179-SV BODY 24 V SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0030-HIGH TDS MEMBRANE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0034-BOOSTER PUMP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX048-Tap - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0078-HAVELLS PRE FILTER ASSEMBLY",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0078-SOLENOID VALVE 1/4 INCH_GD -SPARE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0078-HAVELLS PRE FILTER ASSEMBLY",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPSD1WPX05-SEDIMENT FILTER PF SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSKPCGHWPP39-UNIT CARTON_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX015-Pipe - Blue",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX016-Pipe - White",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX087-Inlet tank connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0050-Power cord - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0051-Adaptor - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX051-Adaptor clamp - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX098-Air vent cap - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0044-MAIN PUMP - ENTRY SERIES",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX059-Display Box Trim - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX438-DISPLAY PANEL_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX063-Display PCB box - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELZOX0712-Relay with PCB-Fest RO UF",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX012-Elbow SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX066-Filter clamp - DIGI PLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX091-FILTER CLAMP - MAX/PRO",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX067-Filter clamp single -DIGI PLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX439-FRONT DECO_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0290-INPUT HARNESS_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0291-OUTPUT HARNESS_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX013-Grommet power cord - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0041-Magnet float switch vertical SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX013-Reject water valve",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCFEPWPX001-Wall mounting bracket - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX084-X clamp - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0027-Solenoid valve - RO model",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX014-Stem elbow",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX077-Tank - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX078-Tank connector - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX016-Grommet tank - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX080-Tank inlet connector nut-DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX026-SILICON GROMMET INLET SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX079-Tank Lid- DIGPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX081-Tap Dial Cap - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX046-Equal straight connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX440-TOP COVER_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX441-REAR COVER BOTTOM_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX442-REAR COVER_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX443-FRONT COVER_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX039-DIAL GRIP SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX283-PC0303 Male Connector SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELZLX0458-Display PCB - Entry model",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPSD1WPX12-4 INCH UF MEMBRANE-FEST RO UF",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0001-Carbon Filter SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0075-MINERALZ CUM POST CARBON CARTRIDGE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0007-Sediment catridge",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCBRTWPP015-DIVERTER VALVE - SPARE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX072-Wall insert plug",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX034-DEMO UNIT DIGIPLUS SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPSD1WPX09-75 GPD RO MEMBRANE-(HH)",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX445-TANK_ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-ALBUS-ACMC ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-ALBUS 2YR-ACMC ALBUS 2YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-ALBUS 3YR-ACMC ALBUS 3YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCHEME-ALBUS 2YR-SCHEME ALBUS 2YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCMC-ALBUS-SCMC ALBUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCMC-ALBUS 2YR-SCMC ALBUS 2YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-DISMANTLING-Water Purifier Dismantling",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-INSTALLATION-Water Purifier Installation",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-RE-INSTALLATION-Water Purifier Re-Installation",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-SERVICE CHARGE-Water Purifier Service Visit Charge",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0006-RO Membrane",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    }
+                ],
+                "Services": [
+                    {
+                        "Action": "Replaced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580649",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS ALBUS",
+        "CustomerName": "Mosin Sannadi",
+        "PhoneNubmer": "9902420745",
+        "PINCode": "591302",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580676",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS DELITE DX",
+        "CustomerName": "Nitin Maheshwari",
+        "PhoneNubmer": "9893537910",
+        "PINCode": "452009",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "CONTINUOUS RINGING NO RESPONSE",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580768",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS ALBUS",
+        "CustomerName": "raju madavi",
+        "PhoneNubmer": "8411841628",
+        "PINCode": "442702",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "ok",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHWRALW015",
+                "ModelName": "GHWRALW015",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "27-10-2023 00:00:00",
+                "Observation": "Installation related",
+                "Cause": "Installation",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Installed"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580782",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS AQUAS",
+        "CustomerName": "Apoorva",
+        "PhoneNubmer": "9902311642",
+        "PINCode": "560022",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580844",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS AQUAS",
+        "CustomerName": "RAMIYA",
+        "PhoneNubmer": "9964630044",
+        "PINCode": "560064",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580850",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "Havells Active",
+        "CustomerName": "S S Kumbar",
+        "PhoneNubmer": "9845068518",
+        "PINCode": "586101",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580851",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS PRO ALKALINE",
+        "CustomerName": "MANORAMA PANDEY",
+        "PhoneNubmer": "7518201690",
+        "PINCode": "226012",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Refused for service (customer not pick the phone )",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580882",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "Havells Active Touch",
+        "CustomerName": "THEREZ FERNANDES",
+        "PhoneNubmer": "8830473564",
+        "PINCode": "403512",
+        "AlternateNumber": "9403271927",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580886",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS AQUAS",
+        "CustomerName": "Snigdha singh",
+        "PhoneNubmer": "8824942300",
+        "PINCode": "560103",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580910",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS PRO ALKALINE",
+        "CustomerName": "P GURUNATH RAO",
+        "PhoneNubmer": "9908644834",
+        "PINCode": "530016",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "customer call not answering",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580928",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "WATER PURIFIER UTC ALKALINE",
+        "CustomerName": "BALJEET SINGH",
+        "PhoneNubmer": "9501110901",
+        "PINCode": "144001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428580965",
+        "ProductCategory": "LLOYD AIR CONDITIONER",
+        "ProductSubCategory": "SPLIT 0.8-2.0 T INV 3S R-32",
+        "CustomerName": "Gurdeep Singh",
+        "PhoneNubmer": "9876024749",
+        "PINCode": "148105",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "WET SERVICE DONE SET OK",
+        "CustomerComplaintDescription": "service due",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GLS18I3KWSEV",
+                "ModelName": "GLS18I3KWSEV",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "23-05-2023 00:00:00",
+                "Observation": "WET SERVICE",
+                "Cause": "HEAT EXCHANGER CLOG",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Serviced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580978",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "Havells Gracia Alkaline",
+        "CustomerName": "KRISHNA",
+        "PhoneNubmer": "9703599959",
+        "PINCode": "501218",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHWRGAS015",
+                "ModelName": "GHWRGAS015",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "27-10-2023 00:00:00",
+                "Observation": "Sediment cartridge",
+                "Cause": "Mechanical Noise",
+                "Products": [
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCALFWPX001-UV housing - RO",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX037-Cap UV housing",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCFEPWPX020-HOT WATER TANK ASSY GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELZOX0606-INTER FACE PCB GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELZOX0634-HEATER PCB GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCALFWPX001-UV housing - RO",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX037-Cap UV housing",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0088-ALKALINE RO FILTERS KIT",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0034-BOOSTER PUMP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0030-PRE FILTER",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0010-Mineral catridge",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0008-Carbon Taste Enh.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0007-Sediment catridge",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0006-RO Membrane",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0005-Memb Perform. Enh.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSGNU0001-Carbon Filter SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSKPLSHWAP20-User manual - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSKPDBHWAP04-Carton box - DIGIPLUS SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFEGBHYM12-HEX NUT M6 SS SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECWPXX03-Plain Washer M4 SS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU09-HEX NUT M3 SS SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU08-Pan Head Screw M3X14 SS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU07-Pan Head Screw M6X14 SS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU06-CSK Screw M3.5x13 SS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU05-Pan Head Screw M3.5X13 SS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU04-Installation screw",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU03-Pan head ST screw large",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXU02-Pan head ST screw medium",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXM15-Pan head screw medium",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECSPXM13-Pan head screw - small",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSHFECNHXM03-NUT with flange - RO",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX023-Harness - Pump - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX016-Grommet tank - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX015-Silicon Pipe - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX014-Grommet recirculation pump",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX013-Grommet power cord - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX011-Silicon tube - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX010-Rubber seal",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCRBMWPX006-Washer tank inlet ",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX179-SV BODY 24 V SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX134-TANK STRAIGHT CONNECTOR SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX120-TOP COVER- DIGI PLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX119-REAR COVER BOTTOM-DIGI PLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX118-REAR COVER- DIGI PLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX117-FRONT COVER-DIGI PLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX112-NRV - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX098-Air vent cap - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX087-Inlet tank connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX084-X clamp - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX081-Tap Dial Cap - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX080-Tank inlet connector nut-DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX079-Tank Lid- DIGPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX077-Tank - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX075-Silicon tube adaptor - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX074-Rear Cover bottom - DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX072-Wall insert plug",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX069-Front Deco - DIGI PLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX068-Front cover - DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX067-Filter clamp single -DIGI PLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX066-Filter clamp - DIGI PLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX060-Display panel - DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX059-Display Box Trim - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX055-Tap Dial - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX051-Adaptor clamp - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX049-NRV 1/4 - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX048-Tap - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX047-Equal tee",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX046-Equal straight connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX045-Straight connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX037-Cap UV housing",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX016-Pipe - White",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX015-Pipe - Blue",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX014-Stem elbow",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX013-Reject water valve",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX012-Elbow SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX011-Inlet/Reject connector",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX010-Filter clamp",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPGMWPX005-FILTER CLAMP TASTE ENHANCER - UTC",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCGLMWPX001-Quartz glass - RO model",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCFEPWPX001-Wall mounting bracket - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0041-Magnet float switch vertical SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0029-Float Valve with switch - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0027-Solenoid valve - RO model",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0016-Display PCB - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0015-Recirculation  pump",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0014-PCB - DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0012-Main pump - MAX/DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0085-Harness - LED - DIGIPLUS/DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0062-Wiring harness 6 pin - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0061-Harness - PCB connector - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0060-Harness - Display",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0057-Wiring harness-UV lamp-DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0052-Dipense solenoid valve - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0051-Adaptor - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0050-Power cord - DIGIPLUS/TOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELDLX0135-UV lamp - RO model",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCBRTWPP001-DISPENSE CONNECTOR NUT -DIGITOUCH",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCBRAWPA002-PRESSURE REDUCING VALVE SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCBRAWPA001-Diverter valve assembly",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCALFWPX001-UV housing - RO",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX078-Tank connector - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX063-Display PCB box - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX061-Display panel - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNLX0080-Harness - Float switch - DIGIPLUS",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELDLX0289-UV LED  E2 and Premium SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-GRACIA ALK-ACMC  GRACIA ALKALINE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-GRACIA ALK2YR-sCMC GRACIA ALKALINE 2YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCMC-GRACIA ALK-SCMC GRACIA ALKALINE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCMC-GRACIA ALK2YR-SCMC GRACIA ALKALINE 2YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "ACMC-GRACIA ALK3YR-ACMC FEST RO+UF3YR",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "SCHEME-GRACIA ALK2-Scheme Gracia Alk2",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX384-TANK OUTLET CONNECTOR-GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX262-TAP DISPENSE CONECTOR E2 DIAL SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX337-DISPLAY PANEL GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0106-Spare-Faucet holder body Assly",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSKOLSHWPP37-INTERFACE PCB STICKER GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX406-Faucet Body_Gracia Alkaline",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0058-HOT WATER DISPENSE SV GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNOX0279-8 PIN HARNESS GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELOLX0044-MAIN PUMP - ENTRY SERIES",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX384-TANK OUTLET CONNECTOR-GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX262-TAP DISPENSE CONECTOR E2 DIAL SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPSD1WPX05-SEDIMENT FILTER PF SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX406-Faucet Body_Gracia Alkaline",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNOX0283-HEATER DRIVE HARNESS GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNOX0287-THERMOSTAT HARNESS GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELNOX0280-PCB HEATER HARNESS GRACIA ALK.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCPTMWPX375-Threaded Cap-New Pre Filter",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSCELQLX0078-SOLENOID VALVE 1/4 INCH_GD -SPARE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-DISMANTLING-Water Purifier Dismantling",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-INSTALLATION-Water Purifier Installation",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-RE-INSTALLATION-Water Purifier Re-Installation",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "WP-SERVICE CHARGE-Water Purifier Service Visit Charge",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0020-MINERALZ ALK. CARTRIDGE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0078-HAVELLS PRE FILTER ASSEMBLY",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "GSSWPU0084-UV HOUSING ASSLY. -4W",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    }
+                ],
+                "Services": [
+                    {
+                        "Action": "Replaced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428580980",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS LOOP",
+        "CustomerName": "Vinita Mishra",
+        "PhoneNubmer": "9993313598",
+        "PINCode": "226028",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581026",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "MIXER GRINDER",
+        "CustomerName": "SARBJIT KUAR",
+        "PhoneNubmer": "7710445621",
+        "PINCode": "143114",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "duplicate call\n",
+        "CustomerComplaintDescription": "JAR ISSUE ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581053",
+        "ProductCategory": "HAVELLS MOTOR",
+        "ProductSubCategory": "SMOKE MOTOR 3PH",
+        "CustomerName": "Farah",
+        "PhoneNubmer": "9310820491",
+        "PINCode": "201305",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Telephonic discussed with customer .Out of warrenty pump . Repair locally ",
+        "CustomerComplaintDescription": "Not  sure of the Motor type and other details",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581086",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "Havells PRO",
+        "CustomerName": "Renuka electronic",
+        "PhoneNubmer": "9709962200",
+        "PINCode": "847103",
+        "AlternateNumber": "9523861920",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581111",
+        "ProductCategory": "HAVELLS WATER HEATER",
+        "ProductSubCategory": "DIGI WATER HEATER",
+        "CustomerName": "Manoj",
+        "PhoneNubmer": "9841312558",
+        "PINCode": "600010",
+        "AlternateNumber": "9841409779",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "NO HEATING  ",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done SMS",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581214",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - SPECIAL FINISH HAVELLS FAN",
+        "CustomerName": "GAURI PANDEY",
+        "PhoneNubmer": "9538802925",
+        "PINCode": "560064",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "INS ",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "FHCSYSTPWT48",
+                "ModelName": "FHCSYSTPWT48",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "23-03-2024 00:00:00",
+                "Observation": "Installation",
+                "Cause": "Installation",
+                "Products": [
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPTMFCX554-BLADE ASSY 1250MM STEALTH AIR P.WHITE SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCX009-BALL BEARING 6201 ZZ SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCX010-BALL BEARING 6202 ZZ SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCELIL00013-CAPACITOR 2.25 mfd SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCC197-DOWN ROD 19X260 PEARL WHT W/O SCREW SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX421-DOWNROD PIPE PEARL WHITE STEALTH AIR SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPTMFCX550-CANOPY STEALTH AIR PEARL WHITE SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFEAFCP026-SHACKLE ASSEMBLY WITH M8 BOLT SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX422-BODY RING STEALTH AIR CHROME METALI. SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCLPNFCX103-DAMPING WASHER CORK FOR STEALTH AIR SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FHCSYSTPWT48-1250 mm FAN STEALTH AIR PEARL WHITE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX485-DOWNROD PIPE P. WHT STEALTH AIR 2PCS SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSSFCX1015-STATOR ASSLY 18X18X18 CRNO SHAFT DIA 8.1",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-1YR-Ex-wrnty 1 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-2YR-Ex-wrnty 2 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-3YR-Ex-wrnty 3 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    }
+                ],
+                "Services": [
+                    {
+                        "Action": "Installation Done"
+                    },
+                    {
+                        "Action": "Visit Charge"
+                    }
+                ]
+            },
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "FHCSYSTPWT48",
+                "ModelName": "FHCSYSTPWT48",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "23-03-2024 00:00:00",
+                "Observation": "Installation",
+                "Cause": "Installation",
+                "Products": [
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPTMFCX554-BLADE ASSY 1250MM STEALTH AIR P.WHITE SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCX009-BALL BEARING 6201 ZZ SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCX010-BALL BEARING 6202 ZZ SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCELIL00013-CAPACITOR 2.25 mfd SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFETFCC197-DOWN ROD 19X260 PEARL WHT W/O SCREW SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX421-DOWNROD PIPE PEARL WHITE STEALTH AIR SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPTMFCX550-CANOPY STEALTH AIR PEARL WHITE SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCFEAFCP026-SHACKLE ASSEMBLY WITH M8 BOLT SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX422-BODY RING STEALTH AIR CHROME METALI. SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCLPNFCX103-DAMPING WASHER CORK FOR STEALTH AIR SP",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FHCSYSTPWT48-1250 mm FAN STEALTH AIR PEARL WHITE",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSCPGMFCX485-DOWNROD PIPE P. WHT STEALTH AIR 2PCS SP.",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "FSSFCX1015-STATOR ASSLY 18X18X18 CRNO SHAFT DIA 8.1",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-1YR-Ex-wrnty 1 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-2YR-Ex-wrnty 2 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    },
+                    {
+                        "SparePartCode": "",
+                        "SparePartDescription": "EW-CFAN-INDUCT-3YR-Ex-wrnty 3 Yr Plan ceiling induction fan",
+                        "Quantity": "",
+                        "Amount": "0.00"
+                    }
+                ],
+                "Services": [
+                    {
+                        "Action": "Installation Done"
+                    },
+                    {
+                        "Action": "Visit Charge"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581226",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - NON DECORATIVE HAVELLS FAN",
+        "CustomerName": "Hemantha Pathoro",
+        "PhoneNubmer": "9733117129",
+        "PINCode": "722141",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "BEARING CHANGE FAN OK,",
+        "CustomerComplaintDescription": "Having issue with Stand Fan- not working",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "FHCSVSTWHT36",
+                "ModelName": "FHCSVSTWHT36",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "16-03-2024 00:00:00",
+                "Observation": "Noise",
+                "Cause": "Bearing",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Part Replaced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581235",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS PRO ALKALINE",
+        "CustomerName": "D NAGA RAJU",
+        "PhoneNubmer": "8309864305",
+        "PINCode": "509125",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581256",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "Havells Gracia Alkaline",
+        "CustomerName": "NATHEL SINGH",
+        "PhoneNubmer": "9871014064",
+        "PINCode": "131001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581266",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS ALBUS",
+        "CustomerName": "LALITA",
+        "PhoneNubmer": "9880614223",
+        "PINCode": "573201",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581267",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS ALBUS",
+        "CustomerName": "PRASHANT GUPTA",
+        "PhoneNubmer": "7617668705",
+        "PINCode": "201306",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581370",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "MIXER GRINDER",
+        "CustomerName": "PARDEEP CHOUHAN",
+        "PhoneNubmer": "8448354051",
+        "PINCode": "201301",
+        "AlternateNumber": "9711335853",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "NO RESPONSE SMS SEND",
+        "CustomerComplaintDescription": "]JAR ISSUE  ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581378",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS DELITE",
+        "CustomerName": "RAKESH KUMAR 9450405814",
+        "PhoneNubmer": "9450405814",
+        "PINCode": "211001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "",
+        "ActualCharges": "",
+        "SubStatus": "Work Allocated",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581455",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "Dry Iron",
+        "CustomerName": "SANDEEP",
+        "PhoneNubmer": "8435410794",
+        "PINCode": "454775",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "ok",
+        "CustomerComplaintDescription": "NOT WORKING ",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done SMS",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581484",
+        "ProductCategory": "HAVELLS PUMP",
+        "ProductSubCategory": "MONOBLOCK PUMP",
+        "CustomerName": "Sameer Jaganath Patil",
+        "PhoneNubmer": "7875577435",
+        "PINCode": "401304",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Job cancelled by Customer via Sync App",
+        "CustomerComplaintDescription": "not taking water load",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581532",
+        "ProductCategory": "HAVELLS WATER HEATER",
+        "ProductSubCategory": "STORAGE WATER HEATER HAVELLS",
+        "CustomerName": "Venu Eralagaddu",
+        "PhoneNubmer": "6281730902",
+        "PINCode": "500090",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "ok",
+        "CustomerComplaintDescription": "No light . no heating",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHWAPXTWB015",
+                "ModelName": "GHWAPXTWB015",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "24-02-2023 00:00:00",
+                "Observation": "No Heating",
+                "Cause": "Thermal Cutout Due to Scaling",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Service Done"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581567",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - BLDC HAVELLS FAN",
+        "CustomerName": "Arjun Shahu",
+        "PhoneNubmer": "9883173477",
+        "PINCode": "700132",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "DUPLICATE CALL - 27032428628521",
+        "CustomerComplaintDescription": "not working",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581569",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - NON DECORATIVE HAVELLS FAN",
+        "CustomerName": "MUKESH KUMAR",
+        "PhoneNubmer": "9729566908",
+        "PINCode": "125121",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "NOT WORKING  ",
+        "ActualCharges": "",
+        "SubStatus": "Estimate Given",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581587",
+        "ProductCategory": "LLOYD AIR CONDITIONER",
+        "ProductSubCategory": "SPLIT 0.8-2.0 T INV 5S R-32",
+        "CustomerName": "Nilam Rathor",
+        "PhoneNubmer": "9766361666",
+        "PINCode": "444401",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "electric power issue and drain prob",
+        "CustomerComplaintDescription": "Water leakage issue.",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GLS18I5FWGEA",
+                "ModelName": "GLS18I5FWGEA",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "24-03-2024 00:00:00",
+                "Observation": "INPUT AC VOLTAGE DEFECTIVE",
+                "Cause": "LOW",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Customer ExplanationLL500"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581588",
+        "ProductCategory": "HAVELLS AQUA",
+        "ProductSubCategory": "HAVELLS MAX ALKALINE",
+        "CustomerName": "Niharendu Bar",
+        "PhoneNubmer": "6291815998",
+        "PINCode": "700110",
+        "AlternateNumber": "6290392420",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "26032428602681",
+        "CustomerComplaintDescription": "\nInstallation\n\n",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581619",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - BLDC HAVELLS FAN",
+        "CustomerName": "ANIL SHUKLA",
+        "PhoneNubmer": "9415865292",
+        "PINCode": "211019",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "out of station",
+        "CustomerComplaintDescription": "NOT WORKING ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581658",
+        "ProductCategory": "LLOYD WASHING MACHIN",
+        "ProductSubCategory": "WASHING M 7.0-7.9 KG TL FULLY AUTO",
+        "CustomerName": "DURGESH",
+        "PhoneNubmer": "9590810421",
+        "PINCode": "583101",
+        "AlternateNumber": "9590810421",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "DRAIN PIPE CLEANED ADJUSTMENT DONE SET OK",
+        "CustomerComplaintDescription": "WATER EXISTS ISSUE ",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GLWMT75GMBEH",
+                "ModelName": "GLWMT75GMBEH",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "26-10-2022 03:20:00",
+                "Observation": "MACHINE UNBALANCED",
+                "Cause": "WEIGHT BALANCER U /L",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "RepairedLL550"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581669",
+        "ProductCategory": "HAVELLS WATER HEATER",
+        "ProductSubCategory": "INSTANT WATER HEATER HAVELLS",
+        "CustomerName": "Mittal Patel",
+        "PhoneNubmer": "9106017433",
+        "PINCode": "396001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "closed ",
+        "CustomerComplaintDescription": "001973",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHWERUPWB003",
+                "ModelName": "GHWERUPWB003",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "06-01-2023 00:00:00",
+                "Observation": "No Heating",
+                "Cause": "Element",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Part Replaced"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581682",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "MIXER GRINDER",
+        "CustomerName": "ANEESH KUMAR",
+        "PhoneNubmer": "9199956472",
+        "PINCode": "843119",
+        "AlternateNumber": "9708621766",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "phone nahi recive kiye",
+        "CustomerComplaintDescription": "NOT WORKING AND JAR ISSUE  WATER LEAKGE ISSUE  ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581696",
+        "ProductCategory": "HAVELLS EWA",
+        "ProductSubCategory": "MODULAR SWITCH HAVELLS",
+        "CustomerName": "Anandh Rajput",
+        "PhoneNubmer": "8127646471",
+        "PINCode": "284128",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "upper cap is missing",
+        "CustomerComplaintDescription": "2 way switches",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581743",
+        "ProductCategory": "LLOYD LED TELEVISION",
+        "ProductSubCategory": "LED 24 - 32 HD SMART ANDROID_E-Com",
+        "CustomerName": "SAPNA KUMARI",
+        "PhoneNubmer": "8789262269",
+        "PINCode": "814133",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Job Done",
+        "CustomerComplaintDescription": "installation",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GL32H4A2DN",
+                "ModelName": "GL32H4A2DN",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "03-02-2024 18:30:00",
+                "Observation": "Installation",
+                "Cause": "INSTALLATION",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Installed"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581772",
+        "ProductCategory": "HAVELLS AIR COOLER",
+        "ProductSubCategory": "AIR COOLER HAVELLS",
+        "CustomerName": "Hamson",
+        "PhoneNubmer": "9663125597",
+        "PINCode": "585202",
+        "AlternateNumber": "9482454390",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "LOCAL SERVICE TECHNICIAN WORK DONE",
+        "CustomerComplaintDescription": "NOT WORKING ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428581783",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "JUICER MIXER GRINDER",
+        "CustomerName": "Shivam",
+        "PhoneNubmer": "9415156065",
+        "PINCode": "228001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "done",
+        "CustomerComplaintDescription": "Breakage damagae",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Closed",
+        "Incidents": [
+            {
+                "WarrantyStatus": "??In Warranty",
+                "ModelCode": "GHFJMBUB050",
+                "ModelName": "GHFJMBUB050",
+                "SerialNumber": "",
+                "InvoiceNumber": "",
+                "InvoiceDate": "13-03-2024 00:00:00",
+                "Observation": "Not Working",
+                "Cause": "connection",
+                "Products": [],
+                "Services": [
+                    {
+                        "Action": "Adjusted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "JobId": "25032428581895",
+        "ProductCategory": "HAVELLS SDA",
+        "ProductSubCategory": "Dry Iron",
+        "CustomerName": "YAM SUBARAIDU",
+        "PhoneNubmer": "9986727437",
+        "PINCode": "583121",
+        "AlternateNumber": "9986937943",
+        "WarrantyStatus": "??In Warranty",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Customer not response ",
+        "CustomerComplaintDescription": "NOT WORKING  ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582006",
+        "ProductCategory": "STANDARD FAN",
+        "ProductSubCategory": "CEILING FAN - BLDC STANDARD FAN",
+        "CustomerName": "MOHMMAD SAGEER",
+        "PhoneNubmer": "9450044603",
+        "PINCode": "227813",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "PRODUCT IS OK",
+        "CustomerComplaintDescription": "\nNot Working",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582009",
+        "ProductCategory": "LLOYD AIR CONDITIONER",
+        "ProductSubCategory": "SPLIT 0.8-2.0 T INV 3S R-32",
+        "CustomerName": "Vikas sharma",
+        "PhoneNubmer": "7067946431",
+        "PINCode": "477116",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "PMS  NOT WORKING  ",
+        "ActualCharges": "0.0000",
+        "SubStatus": "Work Done SMS",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582046",
+        "ProductCategory": "LLOYD WASHING MACHIN",
+        "ProductSubCategory": "WASHING M 6.0-6.9 KG TL SEMI AUTO",
+        "CustomerName": "Jabar Khana",
+        "PhoneNubmer": "7606994901",
+        "PINCode": "754031",
+        "AlternateNumber": "7606994901",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Customer is not avaliable",
+        "CustomerComplaintDescription": "NOT WORKING ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582048",
+        "ProductCategory": "HAVELLS WATER HEATER",
+        "ProductSubCategory": "STORAGE WATER HEATER HAVELLS",
+        "CustomerName": "Chiranjit Boruah",
+        "PhoneNubmer": "8724910495",
+        "PINCode": "786152",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "Customer phn not reachable",
+        "CustomerComplaintDescription": "no power",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582082",
+        "ProductCategory": "HAVELLS AIR COOLER",
+        "ProductSubCategory": "AIR COOLER HAVELLS",
+        "CustomerName": "ASHOK",
+        "PhoneNubmer": "9550528699",
+        "PINCode": "503230",
+        "AlternateNumber": "9347533489",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "customer out of station",
+        "CustomerComplaintDescription": "NOT WORKING ",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582101",
+        "ProductCategory": "HAVELLS FAN",
+        "ProductSubCategory": "CEILING FAN - BLDC HAVELLS FAN",
+        "CustomerName": "Pawan",
+        "PhoneNubmer": "7000861693",
+        "PINCode": "470001",
+        "AlternateNumber": "",
+        "WarrantyStatus": "",
+        "CountryClassification": "Local",
+        "ClosureRemarks": "",
+        "CustomerComplaintDescription": "SLow speed issuye",
+        "ActualCharges": "",
+        "SubStatus": "Estimate Given",
+        "Incidents": []
+    },
+    {
+        "JobId": "25032428582153",
+        "ProductCategory": "HAVELLS WATER HEATER",
+        "ProductSubCategory": "STORAGE WATER HEATER HAVELLS",
+        "CustomerName": "C Pawan Ajay",
+        "PhoneNubmer": "8985223744",
+        "PINCode": "500049",
+        "AlternateNumber": "7288022333",
+        "WarrantyStatus": "",
+        "CountryClassification": "Other District",
+        "ClosureRemarks": "site not ready customer call back ",
+        "CustomerComplaintDescription": "installation",
+        "ActualCharges": "",
+        "SubStatus": "Canceled",
+        "Incidents": []
+    }
+]
