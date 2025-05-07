@@ -1,0 +1,588 @@
+﻿using Microsoft.Xrm.Sdk;
+using Microsoft.Xrm.Sdk.Query;
+using System;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Text;
+using System.Text.Json;
+
+
+namespace Havells.Dataverse.CustomConnector.Attribute_Metadata
+{
+
+    public class GetArchivedJobData : IPlugin
+    {
+        public void Execute(IServiceProvider serviceProvider)
+        {
+            #region SetUp
+            IPluginExecutionContext context = (IPluginExecutionContext)serviceProvider.GetService(typeof(IPluginExecutionContext));
+            IOrganizationServiceFactory serviceFactory = (IOrganizationServiceFactory)serviceProvider.GetService(typeof(IOrganizationServiceFactory));
+            IOrganizationService service = serviceFactory.CreateOrganizationService(context.UserId);
+            ITracingService _tracingService = (ITracingService)serviceProvider.GetService(typeof(ITracingService));
+            #endregion
+            #region Class object
+            ArchivedJobsResponse archivedJobsResponse;
+            ArchivedJobRequest archivedJobRequest = new ArchivedJobRequest();
+            #endregion
+            #region Extract Value 
+
+            string MobileNumber = Convert.ToString(context.InputParameters["MobileNumber"]);
+            string JobNumber = Convert.ToString(context.InputParameters["JobNumber"]);
+            string pageNumber = Convert.ToString(context.InputParameters["pageNumber"]);
+            string recordsPerPage = Convert.ToString(context.InputParameters["recordsPerPage"]);
+            #endregion
+            #region Validation Check
+
+            if (context.InputParameters.Contains("JobNumber") && !string.IsNullOrWhiteSpace(JobNumber))
+            {
+                string _JobNumber = context.InputParameters["JobNumber"].ToString();
+                if (APValidate.IsNumeric(_JobNumber))
+                {
+                    archivedJobRequest.JobNumber = _JobNumber;
+                }
+                else
+                {
+                    archivedJobsResponse = new ArchivedJobsResponse { success = false, error = "Job Number is not Valid" };
+                    context.OutputParameters["data"] = JsonSerializer.Serialize(archivedJobsResponse);
+                    return;
+                }
+            }
+            else if (context.InputParameters.Contains("MobileNumber") && !string.IsNullOrWhiteSpace(MobileNumber))
+            {
+                string _MobileNo = context.InputParameters["MobileNumber"].ToString();
+                if (APValidate.IsValidMobileNumber(_MobileNo))
+                {
+                    archivedJobRequest.MobileNumber = MobileNumber;
+                }
+                else
+                {
+                    archivedJobsResponse = new ArchivedJobsResponse { success = false, error = "Mobile Number is not Valid" };
+                    context.OutputParameters["data"] = JsonSerializer.Serialize(archivedJobsResponse);
+                    return;
+                }
+            }
+            else
+            {
+                archivedJobsResponse = new ArchivedJobsResponse { success = false, error = "Mobile Number or Job Id is Mandatory" };
+                context.OutputParameters["data"] = JsonSerializer.Serialize(archivedJobsResponse);
+                return;
+            }
+            #endregion
+
+            archivedJobsResponse = GetJobData(archivedJobRequest, service);
+            string jsonResult = JsonSerializer.Serialize(archivedJobsResponse);
+            context.OutputParameters["data"] = jsonResult;
+
+        }
+        public ArchivedJobsResponse GetJobData(ArchivedJobRequest inpReq, IOrganizationService service)
+        {
+
+            ArchivedJobsResponse response = new ArchivedJobsResponse();
+            string eurl = string.Empty;
+            if (inpReq.JobNumber != null && inpReq.JobNumber != string.Empty)
+            {
+                eurl = "RefId=" + inpReq.JobNumber + "&entityNo=4&ApiType=1";
+            }
+            else if (inpReq.MobileNumber != null && inpReq.MobileNumber != string.Empty)
+            {
+                String custRef = string.Empty;
+                QueryExpression _query = new QueryExpression("contact");
+                _query.ColumnSet = new ColumnSet(false);
+                _query.Criteria = new FilterExpression(LogicalOperator.And);
+                _query.Criteria.AddCondition("mobilephone", ConditionOperator.Equal, inpReq.MobileNumber);
+                EntityCollection Found = service.RetrieveMultiple(_query);
+                if (Found.Entities.Count == 1)
+                {
+                    eurl = "RefId=" + Found[0].Id.ToString() + "&entityNo=4&ApiType=3";
+                }
+                else
+                {
+                    response.success = false;
+                    response.error = "Mobile Number Not Found";
+                    return response;
+                }
+                if (inpReq.pageNumber != null && inpReq.pageNumber != string.Empty)
+                {
+                    eurl = eurl + "&pageNumber=" + inpReq.pageNumber;
+                }
+                else
+                    eurl = eurl + "&pageNumber=1";
+                if (inpReq.recordsPerPage != null && inpReq.recordsPerPage != string.Empty)
+                {
+                    eurl = eurl + "&recordsPerPage=" + inpReq.recordsPerPage;
+                }
+                else
+                    eurl = eurl + "&recordsPerPage=4";
+            }
+            else
+            {
+                response.success = false;
+                response.error = "Mobile Number or Job Id is Mandatory";
+                return response;
+            }
+            Integration inconfig = IntegrationConfiguration(service, "ArchivedJobAPI");
+            String sUrl = inconfig.uri + eurl;
+            String Auth = inconfig.Auth;
+            string _authInfo = "Basic " + Convert.ToBase64String(Encoding.ASCII.GetBytes(Auth));
+
+            HttpClient client = new HttpClient();
+            var byteArray = Encoding.ASCII.GetBytes(Auth);
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", Convert.ToBase64String(byteArray));
+            var Result = client.GetAsync(new Uri(sUrl));
+            var responseContent = Result.Result.Content.ReadAsStringAsync().Result;
+            Console.WriteLine(responseContent); // Log the response content for debugging
+            response = JsonSerializer.Deserialize<ArchivedJobsResponse>(responseContent);
+            return response;
+        }
+        public Integration IntegrationConfiguration(IOrganizationService service, string Param)
+        {
+            Integration output = new Integration();
+            try
+            {
+                QueryExpression qsCType = new QueryExpression("hil_integrationconfiguration");
+                qsCType.ColumnSet = new ColumnSet("hil_url", "hil_username", "hil_password");
+                qsCType.NoLock = true;
+                qsCType.Criteria = new FilterExpression(LogicalOperator.And);
+                qsCType.Criteria.AddCondition("hil_name", ConditionOperator.Equal, Param);
+                Entity integrationConfiguration = service.RetrieveMultiple(qsCType)[0];
+                output.uri = integrationConfiguration.GetAttributeValue<string>("hil_url");
+                output.Auth = integrationConfiguration.GetAttributeValue<string>("hil_username") + ":" + integrationConfiguration.GetAttributeValue<string>("hil_password");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error:- " + ex.Message);
+            }
+            return output;
+        }
+    }
+    public class ArchivedJobRequest
+    {
+        public string MobileNumber { get; set; }
+        public string pageNumber { get; set; }
+        public string recordsPerPage { get; set; }
+        public string JobNumber { get; set; }
+    }
+    public class ArchivedJobsResponse
+    {
+        public List<dtoWorkOrders> workOrders { get; set; }
+        public bool success { get; set; }
+        public object error { get; set; }
+    }
+    public class dtoWorkOrders
+    {
+        public string createdby { get; set; }
+        public string createdbyname { get; set; }
+        public string createdbyyominame { get; set; }
+        public string createdon { get; set; }
+        public string createdonbehalfby { get; set; }
+        public string createdonbehalfbyname { get; set; }
+        public string createdonbehalfbyyominame { get; set; }
+        public string entityimage { get; set; }
+        public string entityimage_timestamp { get; set; }
+        public string entityimage_url { get; set; }
+        public string entityimageid { get; set; }
+        public double? exchangerate { get; set; }
+        public string hil_05 { get; set; }
+        public double? hil_actualcharges { get; set; }
+        public double? hil_actualcharges_base { get; set; }
+        public string hil_address { get; set; }
+        public string hil_addressdetails { get; set; }
+        public string hil_addressname { get; set; }
+        public string hil_agebucket { get; set; }
+        public string hil_agebucketname { get; set; }
+        public int? hil_ageing { get; set; }
+        public string hil_allocatebykpi { get; set; }
+        public string hil_allocatebykpiname { get; set; }
+        public string hil_alternate { get; set; }
+        public int? hil_appointmentcount { get; set; }
+        public string hil_appointmentcount_date { get; set; }
+        public int? hil_appointmentcount_state { get; set; }
+        public bool? hil_appointmentmandatory { get; set; }
+        public string hil_appointmentmandatoryname { get; set; }
+        public string hil_appointmentseton { get; set; }
+        public int? hil_appointmentstatus { get; set; }
+        public string hil_appointmentstatusname { get; set; }
+        public string hil_appointmenttime { get; set; }
+        public string hil_area { get; set; }
+        public string hil_areaname { get; set; }
+        public string hil_areatext { get; set; }
+        public string hil_assignedon { get; set; }
+        public string hil_assignmentdate { get; set; }
+        public string hil_assignmentmatrix { get; set; }
+        public string hil_assignmentmatrixname { get; set; }
+        public string hil_assigntobranchhead { get; set; }
+        public string hil_assigntobranchheadname { get; set; }
+        public bool? hil_assigntome { get; set; }
+        public string hil_assigntomename { get; set; }
+        public string hil_associateddealer { get; set; }
+        public string hil_associateddealername { get; set; }
+        public string hil_associateddealeryominame { get; set; }
+        public int? hil_automaticassign { get; set; }
+        public string hil_automaticassignname { get; set; }
+        public string hil_branch { get; set; }
+        public string hil_branchengineercity { get; set; }
+        public string hil_branchheadapproval { get; set; }
+        public string hil_branchheadapprovalname { get; set; }
+        public string hil_branchname { get; set; }
+        public string hil_branchtext { get; set; }
+        public int? hil_brand { get; set; }
+        public string hil_brandname { get; set; }
+        public string hil_bsh { get; set; }
+        public string hil_bshname { get; set; }
+        public string hil_bshyominame { get; set; }
+        public string hil_bucket { get; set; }
+        public int? hil_bucket_ageing { get; set; }
+        public bool? hil_calculatecharges { get; set; }
+        public string hil_calculatechargesname { get; set; }
+        public int? hil_callertype { get; set; }
+        public string hil_callertypename { get; set; }
+        public string hil_callingnumber { get; set; }
+        public string hil_callsubtype { get; set; }
+        public string hil_callsubtypename { get; set; }
+        public string hil_calltype { get; set; }
+        public string hil_calltypename { get; set; }
+        public string hil_cancellationdate { get; set; }
+        public string hil_characterstics { get; set; }
+        public string hil_charactersticsname { get; set; }
+        public string hil_chequedate { get; set; }
+        public string hil_chequenumber { get; set; }
+        public string hil_city { get; set; }
+        public string hil_cityname { get; set; }
+        public string hil_citytext { get; set; }
+        public string hil_claimheader { get; set; }
+        public string hil_claimheadername { get; set; }
+        public string hil_claimline { get; set; }
+        public string hil_claimlinename { get; set; }
+        public bool? hil_closeticket { get; set; }
+        public string hil_closeticketname { get; set; }
+        public string hil_closureremarks { get; set; }
+        public int? hil_countryclassification { get; set; }
+        public string hil_countryclassificationname { get; set; }
+        public string hil_customercomplaintdescription { get; set; }
+        public int? hil_customerfeedback { get; set; }
+        public string hil_customerfeedbackname { get; set; }
+        public string hil_customername { get; set; }
+        public string hil_customerref { get; set; }
+        public string hil_customerrefidtype { get; set; }
+        public string hil_customerrefname { get; set; }
+        public string hil_customerrefyominame { get; set; }
+        public bool? hil_delinkpo { get; set; }
+        public string hil_delinkponame { get; set; }
+        public string hil_district { get; set; }
+        public string hil_districtname { get; set; }
+        public string hil_districttext { get; set; }
+        public string hil_email { get; set; }
+        public string hil_emailcustomer { get; set; }
+        public string hil_emailcustomername { get; set; }
+        public string hil_emailcustomeryominame { get; set; }
+        public string hil_emergencycall { get; set; }
+        public string hil_emergencycallname { get; set; }
+        public string hil_emergencyremarks { get; set; }
+        public string hil_emolpyeenamecode { get; set; }
+        public string hil_escalationcall { get; set; }
+        public string hil_escalationcallname { get; set; }
+        public int? hil_escalationcount { get; set; }
+        public string hil_escalationcount_date { get; set; }
+        public int? hil_escalationcount_state { get; set; }
+        public string hil_escallationcountinteger { get; set; }
+        public bool? hil_estimatecharges { get; set; }
+        public string hil_estimatechargesname { get; set; }
+        public string hil_estimatechargestotal { get; set; }
+        public string hil_estimatechargestotal_base { get; set; }
+        public string hil_estimatedchargedecimal { get; set; }
+        public string hil_firstresponsein { get; set; }
+        public string hil_firstresponseinname { get; set; }
+        public string hil_firstresponseon { get; set; }
+        public bool? hil_flagpo { get; set; }
+        public string hil_flagponame { get; set; }
+        public string hil_fulladdress { get; set; }
+        public string hil_ifamceligible { get; set; }
+        public string hil_ifamceligiblename { get; set; }
+        public bool? hil_ifclosedjob { get; set; }
+        public string hil_ifclosedjobname { get; set; }
+        public bool? hil_ifparametersadded { get; set; }
+        public string hil_ifparametersaddedname { get; set; }
+        public int? hil_incidentquantity { get; set; }
+        public bool? hil_ischargable { get; set; }
+        public string hil_ischargablename { get; set; }
+        public string hil_ischargeable { get; set; }
+        public string hil_ischargeablename { get; set; }
+        public string hil_isclaimable { get; set; }
+        public string hil_isclaimablename { get; set; }
+        public bool? hil_isocr { get; set; }
+        public string hil_isocrname { get; set; }
+        public string hil_iswrongjobclosure { get; set; }
+        public string hil_iswrongjobclosurename { get; set; }
+        public string hil_jobcancelreason { get; set; }
+        public string hil_jobcancelreasonname { get; set; }
+        public string hil_jobclass { get; set; }
+        public string hil_jobclassapproval { get; set; }
+        public string hil_jobclassapprovalname { get; set; }
+        public string hil_jobclassname { get; set; }
+        public bool? hil_jobclosemobile { get; set; }
+        public string hil_jobclosemobilename { get; set; }
+        public string hil_jobclosureby { get; set; }
+        public string hil_jobclosurebyname { get; set; }
+        public string hil_jobclosurebyyominame { get; set; }
+        public string hil_jobclosuredon { get; set; }
+        public string hil_jobclosureon { get; set; }
+        public int? hil_jobincidentcount { get; set; }
+        public int? hil_jobpriority { get; set; }
+        public string hil_jobstatuscode { get; set; }
+        public string hil_kkgcode { get; set; }
+        public string hil_kkgcode_sms { get; set; }
+        public string hil_kkgcode_smsname { get; set; }
+        public string hil_kkgotp { get; set; }
+        public bool? hil_kkgprovided { get; set; }
+        public string hil_kkgprovidedname { get; set; }
+        public string hil_lastresponsetime { get; set; }
+        public string hil_locationofasset { get; set; }
+        public string hil_locationofassetname { get; set; }
+        public double? hil_maxquantity { get; set; }
+        public double? hil_minquantity { get; set; }
+        public string hil_mobilenumber { get; set; }
+        public string hil_modelid { get; set; }
+        public string hil_modelname { get; set; }
+        public string hil_modeofpayment { get; set; }
+        public string hil_modeofpaymentname { get; set; }
+        public string hil_natureofcomplaint { get; set; }
+        public string hil_natureofcomplaintname { get; set; }
+        public string hil_newserialnumber { get; set; }
+        public string hil_nsh { get; set; }
+        public string hil_nshname { get; set; }
+        public string hil_nshyominame { get; set; }
+        public string hil_observation { get; set; }
+        public string hil_observationname { get; set; }
+        public string hil_onbehalfofdealer { get; set; }
+        public string hil_onbehalfofdealername { get; set; }
+        public string hil_onbehalfofdealeryominame { get; set; }
+        public string hil_owneraccount { get; set; }
+        public string hil_owneraccountname { get; set; }
+        public string hil_owneraccountyominame { get; set; }
+        public double? hil_payblechargedecimal { get; set; }
+        public string hil_pendingquantity { get; set; }
+        public int? hil_phonecallcount { get; set; }
+        public string hil_pincode { get; set; }
+        public string hil_pincodename { get; set; }
+        public string hil_pincodetext { get; set; }
+        public string hil_pmscount { get; set; }
+        public string hil_pmsdate { get; set; }
+        public string hil_preferreddate { get; set; }
+        public string hil_preferredtime { get; set; }
+        public string hil_preferredtimename { get; set; }
+        public string hil_preferredtimeofvisit { get; set; }
+        public string hil_productcategory { get; set; }
+        public string hil_productcategoryname { get; set; }
+        public string hil_productcatsubcatmapping { get; set; }
+        public string hil_productcatsubcatmappingname { get; set; }
+        public string hil_productreplacement { get; set; }
+        public string hil_productreplacementname { get; set; }
+        public string hil_productsubcategory { get; set; }
+        public string hil_productsubcategorycallsubtype { get; set; }
+        public string hil_productsubcategoryname { get; set; }
+        public string hil_purchasedate { get; set; }
+        public string hil_purchasedfrom { get; set; }
+        public int? hil_quantity { get; set; }
+        public string hil_quantityofunits { get; set; }
+        public string hil_receiptamount { get; set; }
+        public string hil_receiptamount_base { get; set; }
+        public string hil_receiptnumber { get; set; }
+        public string hil_regardingemail { get; set; }
+        public string hil_regardingemailname { get; set; }
+        public string hil_regardingfallback { get; set; }
+        public string hil_regardingfallbackname { get; set; }
+        public string hil_region { get; set; }
+        public string hil_regionbranch { get; set; }
+        public string hil_regionname { get; set; }
+        public string hil_regiontext { get; set; }
+        public int? hil_remaindercount { get; set; }
+        public string hil_remaindercount_date { get; set; }
+        public int? hil_remaindercount_state { get; set; }
+        public string hil_remaindercountinteger { get; set; }
+        public string hil_remindercall { get; set; }
+        public string hil_remindercallname { get; set; }
+        public string hil_repairdone { get; set; }
+        public string hil_repairdonename { get; set; }
+        public string hil_reportbinary { get; set; }
+        public string hil_reporttext { get; set; }
+        public int? hil_requesttype { get; set; }
+        public string hil_requesttypename { get; set; }
+        public bool? hil_resendkkg { get; set; }
+        public string hil_resendkkgname { get; set; }
+        public string hil_resolvebykpi { get; set; }
+        public string hil_resolvebykpiname { get; set; }
+        public string hil_returned { get; set; }
+        public string hil_returnedname { get; set; }
+        public string hil_salesoffice { get; set; }
+        public string hil_salesofficename { get; set; }
+        public int? hil_salutation { get; set; }
+        public string hil_salutationname { get; set; }
+        public bool? hil_sendestimate { get; set; }
+        public string hil_sendestimatename { get; set; }
+        public bool? hil_sendtcr { get; set; }
+        public string hil_sendtcrname { get; set; }
+        public string hil_serviceaddress { get; set; }
+        public string hil_serviceaddressname { get; set; }
+        public string hil_slastarton { get; set; }
+        public int? hil_slastatus { get; set; }
+        public string hil_slastatusname { get; set; }
+        public int? hil_sourceofjob { get; set; }
+        public string hil_sourceofjobname { get; set; }
+        public string hil_state { get; set; }
+        public string hil_statename { get; set; }
+        public string hil_statetext { get; set; }
+        public string hil_systemremarks { get; set; }
+        public string hil_technicianname { get; set; }
+        public double? hil_timeinappointmentdate { get; set; }
+        public double? hil_timeincurrentdate { get; set; }
+        public double? hil_timeinfirstresponse { get; set; }
+        public double? hil_timeinjobclosure { get; set; }
+        public string hil_town { get; set; }
+        public string hil_townname { get; set; }
+        public string hil_typeofassignee { get; set; }
+        public string hil_typeofassigneename { get; set; }
+        public int? hil_warrantystatus { get; set; }
+        public string hil_warrantystatusname { get; set; }
+        public string hil_webclosureremarks { get; set; }
+        public string hil_workdoneby { get; set; }
+        public string hil_workdonebyname { get; set; }
+        public string hil_workdonebyyominame { get; set; }
+        public bool? hil_workstarted { get; set; }
+        public string hil_workstartedname { get; set; }
+        public string importsequencenumber { get; set; }
+        public string lastonholdtime { get; set; }
+        public string modifiedby { get; set; }
+        public string modifiedbyname { get; set; }
+        public string modifiedbyyominame { get; set; }
+        public string modifiedon { get; set; }
+        public string modifiedonbehalfby { get; set; }
+        public string modifiedonbehalfbyname { get; set; }
+        public string modifiedonbehalfbyyominame { get; set; }
+        public string msdyn_address1 { get; set; }
+        public string msdyn_address2 { get; set; }
+        public string msdyn_address3 { get; set; }
+        public string msdyn_addressname { get; set; }
+        public string msdyn_agreement { get; set; }
+        public string msdyn_agreementname { get; set; }
+        public string msdyn_billingaccount { get; set; }
+        public string msdyn_billingaccountname { get; set; }
+        public string msdyn_billingaccountyominame { get; set; }
+        public string msdyn_bookingsummary { get; set; }
+        public string msdyn_childindex { get; set; }
+        public string msdyn_city { get; set; }
+        public string msdyn_closedby { get; set; }
+        public string msdyn_closedbyname { get; set; }
+        public string msdyn_closedbyyominame { get; set; }
+        public string msdyn_country { get; set; }
+        public string msdyn_customerasset { get; set; }
+        public string msdyn_customerassetname { get; set; }
+        public string msdyn_datewindowend { get; set; }
+        public string msdyn_datewindowstart { get; set; }
+        public double? msdyn_estimatesubtotalamount { get; set; }
+        public double? msdyn_estimatesubtotalamount_base { get; set; }
+        public string msdyn_followupnote { get; set; }
+        public bool? msdyn_followuprequired { get; set; }
+        public string msdyn_followuprequiredname { get; set; }
+        public string msdyn_instructions { get; set; }
+        public string msdyn_internalflags { get; set; }
+        public bool? msdyn_isfollowup { get; set; }
+        public string msdyn_isfollowupname { get; set; }
+        public bool? msdyn_ismobile { get; set; }
+        public string msdyn_ismobilename { get; set; }
+        public string msdyn_latitude { get; set; }
+        public string msdyn_longitude { get; set; }
+        public string msdyn_name { get; set; }
+        public string msdyn_opportunityid { get; set; }
+        public string msdyn_opportunityidname { get; set; }
+        public string msdyn_parentworkorder { get; set; }
+        public string msdyn_parentworkordername { get; set; }
+        public string msdyn_postalcode { get; set; }
+        public string msdyn_preferredresource { get; set; }
+        public string msdyn_preferredresourcename { get; set; }
+        public string msdyn_pricelist { get; set; }
+        public string msdyn_pricelistname { get; set; }
+        public string msdyn_primaryincidentdescription { get; set; }
+        public string msdyn_primaryincidentestimatedduration { get; set; }
+        public string msdyn_primaryincidenttype { get; set; }
+        public string msdyn_primaryincidenttypename { get; set; }
+        public string msdyn_priority { get; set; }
+        public string msdyn_priorityname { get; set; }
+        public string msdyn_reportedbycontact { get; set; }
+        public string msdyn_reportedbycontactname { get; set; }
+        public string msdyn_reportedbycontactyominame { get; set; }
+        public string msdyn_serviceaccount { get; set; }
+        public string msdyn_serviceaccountname { get; set; }
+        public string msdyn_serviceaccountyominame { get; set; }
+        public string msdyn_servicerequest { get; set; }
+        public string msdyn_servicerequestname { get; set; }
+        public string msdyn_serviceterritory { get; set; }
+        public string msdyn_serviceterritoryname { get; set; }
+        public string msdyn_stateorprovince { get; set; }
+        public string msdyn_substatus { get; set; }
+        public string msdyn_substatusname { get; set; }
+        public double? msdyn_subtotalamount { get; set; }
+        public double? msdyn_subtotalamount_base { get; set; }
+        public string msdyn_supportcontact { get; set; }
+        public string msdyn_supportcontactname { get; set; }
+        public int? msdyn_systemstatus { get; set; }
+        public string msdyn_systemstatusname { get; set; }
+        public bool? msdyn_taxable { get; set; }
+        public string msdyn_taxablename { get; set; }
+        public string msdyn_taxcode { get; set; }
+        public string msdyn_taxcodename { get; set; }
+        public string msdyn_timeclosed { get; set; }
+        public string msdyn_timefrompromised { get; set; }
+        public string msdyn_timegroup { get; set; }
+        public string msdyn_timegroupdetailselected { get; set; }
+        public string msdyn_timegroupdetailselectedname { get; set; }
+        public string msdyn_timegroupname { get; set; }
+        public string msdyn_timetopromised { get; set; }
+        public string msdyn_timewindowend { get; set; }
+        public string msdyn_timewindowstart { get; set; }
+        public double? msdyn_totalamount { get; set; }
+        public double? msdyn_totalamount_base { get; set; }
+        public double? msdyn_totalsalestax { get; set; }
+        public double? msdyn_totalsalestax_base { get; set; }
+        public string msdyn_worklocation { get; set; }
+        public string msdyn_worklocationname { get; set; }
+        public string msdyn_workorderid { get; set; }
+        public string msdyn_workordersummary { get; set; }
+        public string msdyn_workordertype { get; set; }
+        public string msdyn_workordertypename { get; set; }
+        public string new_owner_temp { get; set; }
+        public string new_owner_tempname { get; set; }
+        public string new_owner_tempyominame { get; set; }
+        public string onholdtime { get; set; }
+        public string overriddencreatedon { get; set; }
+        public string ownerid { get; set; }
+        public string owneridname { get; set; }
+        public string owneridtype { get; set; }
+        public string owneridyominame { get; set; }
+        public string owningbusinessunit { get; set; }
+        public string owningteam { get; set; }
+        public string owninguser { get; set; }
+        public string processid { get; set; }
+        public string slaid { get; set; }
+        public string slaidname { get; set; }
+        public string slainvokedid { get; set; }
+        public string slainvokedidname { get; set; }
+        public string stageid { get; set; }
+        public int? statecode { get; set; }
+        public string statecodename { get; set; }
+        public int? statuscode { get; set; }
+        public string statuscodename { get; set; }
+        public int? timezoneruleversionnumber { get; set; }
+        public string transactioncurrencyid { get; set; }
+        public string transactioncurrencyidname { get; set; }
+        public string traversedpath { get; set; }
+        public string utcconversiontimezonecode { get; set; }
+        public long? versionnumber { get; set; }
+        public string CreatedDateWH { get; set; }
+    }
+    public class Integration
+    {
+        public string uri { get; set; }
+        public string Auth { get; set; }
+    }
+}

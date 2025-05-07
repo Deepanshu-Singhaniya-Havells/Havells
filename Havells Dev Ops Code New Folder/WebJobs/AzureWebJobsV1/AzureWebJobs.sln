@@ -1,0 +1,401 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMC Invoice Sync", "..\AMC Invoice Sync\AMC Invoice Sync.csproj", "{78B1A2E1-7BA1-41C0-AA84-5220BB2E9F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365AttachmentMigrationToAzureBlob", "D365AttachmentMigrationToAzureBlob\D365AttachmentMigrationToAzureBlob.csproj", "{77DDDD74-93B4-4711-B80F-A72809E66D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enquiry Type Sync", "Enquiry Type Sync\Enquiry Type Sync.csproj", "{507E1229-5509-4FCA-B84E-AD9EA1A6E802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAssetWarrantyRefresh", "CustomerAssetWarrantyRefresh\CustomerAssetWarrantyRefresh.csproj", "{A2668819-4FB7-4575-B9AB-D8CFFCA1FC35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankDistrictUpdateInJob", "BlankDistrictUpdateInJob\BlankDistrictUpdateInJob.csproj", "{9D5E05A9-43D1-419D-936A-2E79B2553CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAssetWarrantyDailyRefresh", "CustomerAssetWarrantyDailyRefresh\CustomerAssetWarrantyDailyRefresh.csproj", "{BBF3526C-0614-4AA3-959A-36926566FFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBOMProdInfoRefresh", "ServiceBOMProdInfoRefresh\ServiceBOMProdInfoRefresh.csproj", "{E1E9448D-DE2B-40FD-A2C7-4C6317F85659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentMatrixUpcountryUpdate", "AssignmentMatrixUpcountryUpdate\AssignmentMatrixUpcountryUpdate.csproj", "{2BF16A80-C6BD-40FA-B5FA-ECAD321E6356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365AuditLogMigration", "D365AuditLogMigration\D365AuditLogMigration.csproj", "{5226E796-16D7-44F5-8DAB-DEEBECAF5A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimGeneration", "ClaimGeneration\ClaimGeneration.csproj", "{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{8F397C5E-5AA3-4077-BEB2-A08B37834A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAssignPendingwithCCJobs", "AutoAssignPendingwithCCJobs\AutoAssignPendingwithCCJobs.csproj", "{1698B0AC-0268-48A0-9CA2-B59A385622D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSScheduler", "SMSScheduler\SMSScheduler.csproj", "{3CDD3183-4504-4A74-AAEC-182A94ED6737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAdvisory", "HomeAdvisory\HomeAdvisory.csproj", "{654ADCE5-C6C6-47A4-A0B7-7D9DF9568E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceListSync", "PriceListSync\PriceListSync.csproj", "{7C113CEE-8D33-42F7-98ED-046C3F8C3DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{A4393F64-4801-4F9D-A38A-54212049EC7C}"
+	ProjectSection(SolutionItems) = preProject
+		DigiLocker.html = DigiLocker.html
+		hil_workorder.js = hil_workorder.js
+		JobRquest.js = JobRquest.js
+		TextFile1.js = TextFile1.js
+		TriggerWebjobByWebhook.html = TriggerWebjobByWebhook.html
+		TriggerWebjobByWebhook.js = TriggerWebjobByWebhook.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessGeoSync", "BusinessGeoSync\BusinessGeoSync.csproj", "{D86C5A3C-1627-473E-9404-313C7B5BD541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendPDFDocsToCustomer", "SendPDFDocsToCustomer\SendPDFDocsToCustomer.csproj", "{B95BD7F5-1A9B-4D1A-B644-13D01CDEA312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMCInvoiceSync", "AMCInvoiceSync\AMCInvoiceSync.csproj", "{17FAD6E7-1255-4760-B578-834F7BB19D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365 Data Archival", "D365 Data Archival\D365 Data Archival.csproj", "{F5AA180B-1561-4D3D-AFFB-769FB1ACCBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobsAutomation", "WebJobsAutomation\WebJobsAutomation.csproj", "{C6D71A04-CCB3-462E-95F9-D176EE240E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMCWarrantyCertificate", "AMCWarrantyCertificate\AMCWarrantyCertificate.csproj", "{A9C9F697-1E72-42F4-BD5F-0E7649919A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGNotifications", "BGNotifications\BGNotifications.csproj", "{3CB77CBB-81AB-461B-BCA0-14B9DBF6CB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp01Mar2023", "MDM Sync\TestApp01Mar2023.csproj", "{C6EE294E-E417-4A13-9CD9-291560D013C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAWBulkApprovals", "SAWBulkApprovals\SAWBulkApprovals.csproj", "{D46640DC-0D54-4193-A254-0CD7805AE684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS_OA_SAPIntegration", "EMS_OA_SAPIntegration\EMS_OA_SAPIntegration.csproj", "{BCEA058A-EAB5-4095-8ED8-16BCB3480222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelPartnerSyncJob", "ChannelPartnerSyncJob\ChannelPartnerSyncJob.csproj", "{81C322CA-B145-4027-8467-4CB17F43100C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traffilog", "Traffilog\Traffilog.csproj", "{26343343-24BA-48C1-B237-977744270DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claim Performa Invoice", "Claim Performa Invoice\Claim Performa Invoice.csproj", "{E58F5E6E-7B35-4A49-924C-198C35272B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitmusWorldVoC", "LitmusWorldVoC\LitmusWorldVoC.csproj", "{F992F1CC-0D54-42AA-86E1-051815BFCFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.Crm.AuditLogMigration", "..\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration.csproj", "{77FF9666-2BC3-48D6-BAA8-8225AD11AEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCallRequest", "ServiceCallRequest\ServiceCallRequest.csproj", "{D2B84E5E-0C14-4460-8842-4500045B1818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.WebJob.BusinessManagement.AutoMailer", "Havells.CRM.WebJob.BusinessManagement.AutoMailer\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj", "{895F283D-08BE-49D0-9CA9-624C1C690997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.ProductAndPriceListSync", "..\Havells.CRM.ProductAndPriceListSync\Havells.CRM.ProductAndPriceListSync.csproj", "{07DBF5CC-2DFC-4AEC-9C0C-4B32777699A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.WhatsAppPromotions", "Havells.CRM.WhatsAppPromotions\Havells.CRM.WhatsAppPromotions.csproj", "{E834D808-111B-4F66-9968-043091A07E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365WebJobs", "D365WebJobs\D365WebJobs.csproj", "{A678CA07-98A6-4FD3-806B-D5F49280EF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.AMCInvoiceSync", "Havells.CRM.AMCInvoiceSync25May2023\Havells.CRM.AMCInvoiceSync\Havells.CRM.AMCInvoiceSync.csproj", "{D90AEDAE-73B4-4DD2-8462-437C0F24AABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.GetChannelPartner", "Havells.CRM.GetChannelPartner\Havells.CRM.GetChannelPartner.csproj", "{37F5BB56-66EB-4139-9FB0-EE1DA91A96B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havells.CRM.WebJob.BusinessManagement.OABooking", "Havells.CRM.WebJob.BusinessManagement.OABooking\Havells.CRM.WebJob.BusinessManagement.OABooking\Havells.CRM.WebJob.BusinessManagement.OABooking.csproj", "{429C7FB4-F5F1-4BA0-9AE5-1379ADC7D92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrievanceHandling", "GrievanceHandling\GrievanceHandling.csproj", "{3E97BF5B-359F-4BD1-B2BB-9C229289984B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavellsCustomerAssetWarrantyRefresh", "HavellsCustomerAssetWarrantyRefresh\HavellsCustomerAssetWarrantyRefresh.csproj", "{982BD453-75BC-4305-9792-2E9E4F9D5591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loyalty Program WebJobs", "Loyalty Program WebJobs\Loyalty Program WebJobs.csproj", "{AFAB068C-C02A-4815-8D53-834068FB77C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B1A2E1-7BA1-41C0-AA84-5220BB2E9F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B1A2E1-7BA1-41C0-AA84-5220BB2E9F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B1A2E1-7BA1-41C0-AA84-5220BB2E9F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B1A2E1-7BA1-41C0-AA84-5220BB2E9F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DDDD74-93B4-4711-B80F-A72809E66D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DDDD74-93B4-4711-B80F-A72809E66D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DDDD74-93B4-4711-B80F-A72809E66D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DDDD74-93B4-4711-B80F-A72809E66D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507E1229-5509-4FCA-B84E-AD9EA1A6E802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507E1229-5509-4FCA-B84E-AD9EA1A6E802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507E1229-5509-4FCA-B84E-AD9EA1A6E802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507E1229-5509-4FCA-B84E-AD9EA1A6E802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2668819-4FB7-4575-B9AB-D8CFFCA1FC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2668819-4FB7-4575-B9AB-D8CFFCA1FC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2668819-4FB7-4575-B9AB-D8CFFCA1FC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2668819-4FB7-4575-B9AB-D8CFFCA1FC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5E05A9-43D1-419D-936A-2E79B2553CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5E05A9-43D1-419D-936A-2E79B2553CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5E05A9-43D1-419D-936A-2E79B2553CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5E05A9-43D1-419D-936A-2E79B2553CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF3526C-0614-4AA3-959A-36926566FFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF3526C-0614-4AA3-959A-36926566FFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF3526C-0614-4AA3-959A-36926566FFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF3526C-0614-4AA3-959A-36926566FFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E9448D-DE2B-40FD-A2C7-4C6317F85659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E9448D-DE2B-40FD-A2C7-4C6317F85659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E9448D-DE2B-40FD-A2C7-4C6317F85659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E9448D-DE2B-40FD-A2C7-4C6317F85659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF16A80-C6BD-40FA-B5FA-ECAD321E6356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF16A80-C6BD-40FA-B5FA-ECAD321E6356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF16A80-C6BD-40FA-B5FA-ECAD321E6356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF16A80-C6BD-40FA-B5FA-ECAD321E6356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5226E796-16D7-44F5-8DAB-DEEBECAF5A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5226E796-16D7-44F5-8DAB-DEEBECAF5A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5226E796-16D7-44F5-8DAB-DEEBECAF5A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5226E796-16D7-44F5-8DAB-DEEBECAF5A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F397C5E-5AA3-4077-BEB2-A08B37834A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F397C5E-5AA3-4077-BEB2-A08B37834A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F397C5E-5AA3-4077-BEB2-A08B37834A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F397C5E-5AA3-4077-BEB2-A08B37834A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1698B0AC-0268-48A0-9CA2-B59A385622D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1698B0AC-0268-48A0-9CA2-B59A385622D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1698B0AC-0268-48A0-9CA2-B59A385622D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1698B0AC-0268-48A0-9CA2-B59A385622D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDD3183-4504-4A74-AAEC-182A94ED6737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDD3183-4504-4A74-AAEC-182A94ED6737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDD3183-4504-4A74-AAEC-182A94ED6737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDD3183-4504-4A74-AAEC-182A94ED6737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654ADCE5-C6C6-47A4-A0B7-7D9DF9568E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654ADCE5-C6C6-47A4-A0B7-7D9DF9568E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654ADCE5-C6C6-47A4-A0B7-7D9DF9568E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654ADCE5-C6C6-47A4-A0B7-7D9DF9568E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C113CEE-8D33-42F7-98ED-046C3F8C3DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C113CEE-8D33-42F7-98ED-046C3F8C3DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C113CEE-8D33-42F7-98ED-046C3F8C3DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C113CEE-8D33-42F7-98ED-046C3F8C3DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86C5A3C-1627-473E-9404-313C7B5BD541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86C5A3C-1627-473E-9404-313C7B5BD541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86C5A3C-1627-473E-9404-313C7B5BD541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86C5A3C-1627-473E-9404-313C7B5BD541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95BD7F5-1A9B-4D1A-B644-13D01CDEA312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95BD7F5-1A9B-4D1A-B644-13D01CDEA312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95BD7F5-1A9B-4D1A-B644-13D01CDEA312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95BD7F5-1A9B-4D1A-B644-13D01CDEA312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FAD6E7-1255-4760-B578-834F7BB19D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FAD6E7-1255-4760-B578-834F7BB19D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FAD6E7-1255-4760-B578-834F7BB19D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FAD6E7-1255-4760-B578-834F7BB19D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AA180B-1561-4D3D-AFFB-769FB1ACCBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AA180B-1561-4D3D-AFFB-769FB1ACCBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AA180B-1561-4D3D-AFFB-769FB1ACCBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AA180B-1561-4D3D-AFFB-769FB1ACCBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D71A04-CCB3-462E-95F9-D176EE240E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D71A04-CCB3-462E-95F9-D176EE240E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D71A04-CCB3-462E-95F9-D176EE240E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D71A04-CCB3-462E-95F9-D176EE240E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C9F697-1E72-42F4-BD5F-0E7649919A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C9F697-1E72-42F4-BD5F-0E7649919A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C9F697-1E72-42F4-BD5F-0E7649919A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C9F697-1E72-42F4-BD5F-0E7649919A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB77CBB-81AB-461B-BCA0-14B9DBF6CB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB77CBB-81AB-461B-BCA0-14B9DBF6CB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB77CBB-81AB-461B-BCA0-14B9DBF6CB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB77CBB-81AB-461B-BCA0-14B9DBF6CB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EE294E-E417-4A13-9CD9-291560D013C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EE294E-E417-4A13-9CD9-291560D013C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EE294E-E417-4A13-9CD9-291560D013C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EE294E-E417-4A13-9CD9-291560D013C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46640DC-0D54-4193-A254-0CD7805AE684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46640DC-0D54-4193-A254-0CD7805AE684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46640DC-0D54-4193-A254-0CD7805AE684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46640DC-0D54-4193-A254-0CD7805AE684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEA058A-EAB5-4095-8ED8-16BCB3480222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEA058A-EAB5-4095-8ED8-16BCB3480222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEA058A-EAB5-4095-8ED8-16BCB3480222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEA058A-EAB5-4095-8ED8-16BCB3480222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C322CA-B145-4027-8467-4CB17F43100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C322CA-B145-4027-8467-4CB17F43100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C322CA-B145-4027-8467-4CB17F43100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C322CA-B145-4027-8467-4CB17F43100C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26343343-24BA-48C1-B237-977744270DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26343343-24BA-48C1-B237-977744270DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26343343-24BA-48C1-B237-977744270DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26343343-24BA-48C1-B237-977744270DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58F5E6E-7B35-4A49-924C-198C35272B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58F5E6E-7B35-4A49-924C-198C35272B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58F5E6E-7B35-4A49-924C-198C35272B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58F5E6E-7B35-4A49-924C-198C35272B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F992F1CC-0D54-42AA-86E1-051815BFCFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F992F1CC-0D54-42AA-86E1-051815BFCFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F992F1CC-0D54-42AA-86E1-051815BFCFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F992F1CC-0D54-42AA-86E1-051815BFCFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FF9666-2BC3-48D6-BAA8-8225AD11AEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FF9666-2BC3-48D6-BAA8-8225AD11AEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FF9666-2BC3-48D6-BAA8-8225AD11AEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FF9666-2BC3-48D6-BAA8-8225AD11AEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B84E5E-0C14-4460-8842-4500045B1818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B84E5E-0C14-4460-8842-4500045B1818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B84E5E-0C14-4460-8842-4500045B1818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B84E5E-0C14-4460-8842-4500045B1818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895F283D-08BE-49D0-9CA9-624C1C690997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895F283D-08BE-49D0-9CA9-624C1C690997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895F283D-08BE-49D0-9CA9-624C1C690997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895F283D-08BE-49D0-9CA9-624C1C690997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DBF5CC-2DFC-4AEC-9C0C-4B32777699A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DBF5CC-2DFC-4AEC-9C0C-4B32777699A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DBF5CC-2DFC-4AEC-9C0C-4B32777699A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DBF5CC-2DFC-4AEC-9C0C-4B32777699A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E834D808-111B-4F66-9968-043091A07E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E834D808-111B-4F66-9968-043091A07E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E834D808-111B-4F66-9968-043091A07E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E834D808-111B-4F66-9968-043091A07E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A678CA07-98A6-4FD3-806B-D5F49280EF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A678CA07-98A6-4FD3-806B-D5F49280EF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A678CA07-98A6-4FD3-806B-D5F49280EF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A678CA07-98A6-4FD3-806B-D5F49280EF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90AEDAE-73B4-4DD2-8462-437C0F24AABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90AEDAE-73B4-4DD2-8462-437C0F24AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90AEDAE-73B4-4DD2-8462-437C0F24AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90AEDAE-73B4-4DD2-8462-437C0F24AABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F5BB56-66EB-4139-9FB0-EE1DA91A96B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F5BB56-66EB-4139-9FB0-EE1DA91A96B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F5BB56-66EB-4139-9FB0-EE1DA91A96B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F5BB56-66EB-4139-9FB0-EE1DA91A96B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429C7FB4-F5F1-4BA0-9AE5-1379ADC7D92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429C7FB4-F5F1-4BA0-9AE5-1379ADC7D92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429C7FB4-F5F1-4BA0-9AE5-1379ADC7D92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429C7FB4-F5F1-4BA0-9AE5-1379ADC7D92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E97BF5B-359F-4BD1-B2BB-9C229289984B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E97BF5B-359F-4BD1-B2BB-9C229289984B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E97BF5B-359F-4BD1-B2BB-9C229289984B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E97BF5B-359F-4BD1-B2BB-9C229289984B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982BD453-75BC-4305-9792-2E9E4F9D5591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982BD453-75BC-4305-9792-2E9E4F9D5591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982BD453-75BC-4305-9792-2E9E4F9D5591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982BD453-75BC-4305-9792-2E9E4F9D5591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAB068C-C02A-4815-8D53-834068FB77C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAB068C-C02A-4815-8D53-834068FB77C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAB068C-C02A-4815-8D53-834068FB77C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAB068C-C02A-4815-8D53-834068FB77C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953FCDDA-02DC-48D0-A4A0-4BE6B2E9E6DA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 41
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.havells.com:8080/tfs/hil-microsoftdynamics
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\AMC\u0020Invoice\u0020Sync\\AMC\u0020Invoice\u0020Sync.csproj
+		SccProjectName1 = ../AMC\u0020Invoice\u0020Sync
+		SccLocalPath1 = ..\\AMC\u0020Invoice\u0020Sync
+		SccProjectUniqueName2 = AMCInvoiceSync\\AMCInvoiceSync.csproj
+		SccProjectName2 = AMCInvoiceSync
+		SccLocalPath2 = AMCInvoiceSync
+		SccProjectUniqueName3 = AMCWarrantyCertificate\\AMCWarrantyCertificate.csproj
+		SccProjectName3 = ../../Production/AMCWarrantyCertificate
+		SccLocalPath3 = AMCWarrantyCertificate
+		SccProjectUniqueName4 = AssignmentMatrixUpcountryUpdate\\AssignmentMatrixUpcountryUpdate.csproj
+		SccProjectName4 = AssignmentMatrixUpcountryUpdate
+		SccLocalPath4 = AssignmentMatrixUpcountryUpdate
+		SccProjectUniqueName5 = AutoAssignPendingwithCCJobs\\AutoAssignPendingwithCCJobs.csproj
+		SccProjectName5 = AutoAssignPendingwithCCJobs
+		SccLocalPath5 = AutoAssignPendingwithCCJobs
+		SccProjectUniqueName6 = BGNotifications\\BGNotifications.csproj
+		SccProjectName6 = BGNotifications
+		SccLocalPath6 = BGNotifications
+		SccProjectUniqueName7 = BlankDistrictUpdateInJob\\BlankDistrictUpdateInJob.csproj
+		SccProjectName7 = BlankDistrictUpdateInJob
+		SccLocalPath7 = BlankDistrictUpdateInJob
+		SccProjectUniqueName8 = BusinessGeoSync\\BusinessGeoSync.csproj
+		SccProjectName8 = BusinessGeoSync
+		SccLocalPath8 = BusinessGeoSync
+		SccProjectUniqueName9 = ChannelPartnerSyncJob\\ChannelPartnerSyncJob.csproj
+		SccProjectName9 = ChannelPartnerSyncJob
+		SccLocalPath9 = ChannelPartnerSyncJob
+		SccProjectUniqueName10 = Claim\u0020Performa\u0020Invoice\\Claim\u0020Performa\u0020Invoice.csproj
+		SccProjectName10 = Claim\u0020Performa\u0020Invoice
+		SccLocalPath10 = Claim\u0020Performa\u0020Invoice
+		SccProjectUniqueName11 = ClaimGeneration\\ClaimGeneration.csproj
+		SccProjectName11 = ClaimGeneration
+		SccLocalPath11 = ClaimGeneration
+		SccProjectUniqueName12 = CustomerAssetWarrantyDailyRefresh\\CustomerAssetWarrantyDailyRefresh.csproj
+		SccProjectName12 = CustomerAssetWarrantyDailyRefresh
+		SccLocalPath12 = CustomerAssetWarrantyDailyRefresh
+		SccProjectUniqueName13 = CustomerAssetWarrantyRefresh\\CustomerAssetWarrantyRefresh.csproj
+		SccProjectName13 = CustomerAssetWarrantyRefresh
+		SccLocalPath13 = CustomerAssetWarrantyRefresh
+		SccProjectUniqueName14 = D365\u0020Data\u0020Archival\\D365\u0020Data\u0020Archival.csproj
+		SccProjectName14 = D365\u0020Data\u0020Archival
+		SccLocalPath14 = D365\u0020Data\u0020Archival
+		SccProjectUniqueName15 = D365AttachmentMigrationToAzureBlob\\D365AttachmentMigrationToAzureBlob.csproj
+		SccProjectName15 = D365AttachmentMigrationToAzureBlob
+		SccLocalPath15 = D365AttachmentMigrationToAzureBlob
+		SccProjectUniqueName16 = D365AuditLogMigration\\D365AuditLogMigration.csproj
+		SccProjectName16 = D365AuditLogMigration
+		SccLocalPath16 = D365AuditLogMigration
+		SccProjectUniqueName17 = EMS_OA_SAPIntegration\\EMS_OA_SAPIntegration.csproj
+		SccProjectName17 = EMS_OA_SAPIntegration
+		SccLocalPath17 = EMS_OA_SAPIntegration
+		SccProjectUniqueName18 = Enquiry\u0020Type\u0020Sync\\Enquiry\u0020Type\u0020Sync.csproj
+		SccProjectName18 = Enquiry\u0020Type\u0020Sync
+		SccLocalPath18 = Enquiry\u0020Type\u0020Sync
+		SccProjectUniqueName19 = HomeAdvisory\\HomeAdvisory.csproj
+		SccProjectName19 = HomeAdvisory
+		SccLocalPath19 = HomeAdvisory
+		SccProjectUniqueName20 = LitmusWorldVoC\\LitmusWorldVoC.csproj
+		SccProjectName20 = LitmusWorldVoC
+		SccLocalPath20 = LitmusWorldVoC
+		SccProjectUniqueName21 = PriceListSync\\PriceListSync.csproj
+		SccProjectName21 = PriceListSync
+		SccLocalPath21 = PriceListSync
+		SccProjectUniqueName22 = SAWBulkApprovals\\SAWBulkApprovals.csproj
+		SccProjectName22 = SAWBulkApprovals
+		SccLocalPath22 = SAWBulkApprovals
+		SccProjectUniqueName23 = SendPDFDocsToCustomer\\SendPDFDocsToCustomer.csproj
+		SccProjectName23 = SendPDFDocsToCustomer
+		SccLocalPath23 = SendPDFDocsToCustomer
+		SccProjectUniqueName24 = ServiceBOMProdInfoRefresh\\ServiceBOMProdInfoRefresh.csproj
+		SccProjectName24 = ServiceBOMProdInfoRefresh
+		SccLocalPath24 = ServiceBOMProdInfoRefresh
+		SccProjectUniqueName25 = SMSScheduler\\SMSScheduler.csproj
+		SccProjectName25 = SMSScheduler
+		SccLocalPath25 = SMSScheduler
+		SccProjectUniqueName26 = TestApp\\TestApp.csproj
+		SccProjectName26 = TestApp
+		SccLocalPath26 = TestApp
+		SccProjectUniqueName27 = Traffilog\\Traffilog.csproj
+		SccProjectName27 = Traffilog
+		SccLocalPath27 = Traffilog
+		SccProjectUniqueName28 = WebJobsAutomation\\WebJobsAutomation.csproj
+		SccProjectName28 = WebJobsAutomation
+		SccLocalPath28 = WebJobsAutomation
+		SccProjectUniqueName29 = ..\\Havells.Crm.AuditLogMigration\\Havells.Crm.AuditLogMigration\\Havells.Crm.AuditLogMigration.csproj
+		SccProjectName29 = ../Havells.Crm.AuditLogMigration/Havells.Crm.AuditLogMigration
+		SccLocalPath29 = ..\\Havells.Crm.AuditLogMigration\\Havells.Crm.AuditLogMigration
+		SccProjectUniqueName30 = ServiceCallRequest\\ServiceCallRequest.csproj
+		SccProjectName30 = ServiceCallRequest
+		SccLocalPath30 = ServiceCallRequest
+		SccProjectUniqueName31 = Havells.CRM.WebJob.BusinessManagement.AutoMailer\\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj
+		SccProjectName31 = Havells.CRM.WebJob.BusinessManagement.AutoMailer
+		SccLocalPath31 = Havells.CRM.WebJob.BusinessManagement.AutoMailer
+		SccProjectUniqueName32 = MDM\u0020Sync\\TestApp01Mar2023.csproj
+		SccProjectName32 = MDM\u0020Sync
+		SccLocalPath32 = MDM\u0020Sync
+		SccProjectUniqueName33 = Havells.CRM.WhatsAppPromotions\\Havells.CRM.WhatsAppPromotions.csproj
+		SccProjectName33 = Havells.CRM.WhatsAppPromotions
+		SccLocalPath33 = Havells.CRM.WhatsAppPromotions
+		SccProjectUniqueName34 = D365WebJobs\\D365WebJobs.csproj
+		SccProjectName34 = D365WebJobs
+		SccLocalPath34 = D365WebJobs
+		SccProjectUniqueName35 = Havells.CRM.AMCInvoiceSync25May2023\\Havells.CRM.AMCInvoiceSync\\Havells.CRM.AMCInvoiceSync.csproj
+		SccProjectName35 = Havells.CRM.AMCInvoiceSync25May2023/Havells.CRM.AMCInvoiceSync
+		SccLocalPath35 = Havells.CRM.AMCInvoiceSync25May2023\\Havells.CRM.AMCInvoiceSync
+		SccProjectUniqueName36 = Havells.CRM.GetChannelPartner\\Havells.CRM.GetChannelPartner.csproj
+		SccProjectName36 = Havells.CRM.GetChannelPartner
+		SccLocalPath36 = Havells.CRM.GetChannelPartner
+		SccProjectUniqueName37 = Havells.CRM.WebJob.BusinessManagement.OABooking\\Havells.CRM.WebJob.BusinessManagement.OABooking\\Havells.CRM.WebJob.BusinessManagement.OABooking.csproj
+		SccProjectName37 = Havells.CRM.WebJob.BusinessManagement.OABooking/Havells.CRM.WebJob.BusinessManagement.OABooking
+		SccLocalPath37 = Havells.CRM.WebJob.BusinessManagement.OABooking\\Havells.CRM.WebJob.BusinessManagement.OABooking
+		SccProjectUniqueName38 = GrievanceHandling\\GrievanceHandling.csproj
+		SccProjectName38 = GrievanceHandling
+		SccLocalPath38 = GrievanceHandling
+		SccProjectUniqueName39 = HavellsCustomerAssetWarrantyRefresh\\HavellsCustomerAssetWarrantyRefresh.csproj
+		SccProjectName39 = HavellsCustomerAssetWarrantyRefresh
+		SccLocalPath39 = HavellsCustomerAssetWarrantyRefresh
+		SccProjectUniqueName40 = Loyalty\u0020Program\u0020WebJobs\\Loyalty\u0020Program\u0020WebJobs.csproj
+		SccProjectName40 = Loyalty\u0020Program\u0020WebJobs
+		SccLocalPath40 = Loyalty\u0020Program\u0020WebJobs
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\MRF API.exe.config
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\MRF API.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\MRF API.pdb
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\HavellsConnection.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Havells_Plugin.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.csproj.AssemblyReference.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.csproj.SuggestedBindingRedirects.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.csproj.CoreCompileInputs.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.csproj.CopyComplete
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\MRF API\obj\Debug\MRF API.pdb

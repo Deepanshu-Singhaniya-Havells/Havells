@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WarNov.AESManagedWrapper.dll</id>
+    <version>1.0.0</version>
+    <authors>warnov</authors>
+    <owners>warnov</owners>
+    <projectUrl>http://warnov.com/@CryptoWar</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This class library wraps the AESManaged Algorith in a Password crypto utility class. It's is developed in C#. It also ships an utility for autogenerate passwords. The first version was created wrapping Rijndael. But this one now is on AESManaged in order to support WP7.</description>
+    <releaseNotes>Support for Windows Phone</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Crypto Security AESManaged Rijndael Symmetric</tags>
+  </metadata>
+</package>

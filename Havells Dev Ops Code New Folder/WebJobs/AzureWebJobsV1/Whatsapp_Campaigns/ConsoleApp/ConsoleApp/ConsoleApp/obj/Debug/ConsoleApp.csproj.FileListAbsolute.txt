@@ -1,0 +1,121 @@
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\OMSMail.exe.config
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\OMSMail.exe
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\OMSMail.pdb
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Havells_Plugin.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\RestSharp.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Buffers.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Memory.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.AccessControl.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.Permissions.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.Principal.Windows.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Text.Json.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.ValueTuple.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Buffers.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Memory.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.AccessControl.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.Permissions.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Security.Principal.Windows.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Text.Json.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.ValueTuple.xml
+C:\Projects\ConsoleApp\OMSMail\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\ConsoleApp\OMSMail\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Projects\ConsoleApp\OMSMail\obj\Debug\OMSMail.exe
+C:\Projects\ConsoleApp\OMSMail\obj\Debug\OMSMail.pdb
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Web.Http.dll
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\ConsoleApp\OMSMail\bin\Debug\System.Web.Http.xml
+C:\Projects\ConsoleApp\OMSMail\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\OMSMail.exe.config
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\OMSMail.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\OMSMail.pdb
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Buffers.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Memory.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Text.Json.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.ValueTuple.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Web.Http.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Buffers.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Memory.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Text.Json.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.ValueTuple.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\System.Web.Http.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\OMSMail.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\OMSMail.pdb

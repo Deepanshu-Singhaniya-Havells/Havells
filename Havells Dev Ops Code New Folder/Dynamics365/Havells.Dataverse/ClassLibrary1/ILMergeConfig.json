@@ -1,0 +1,13 @@
+{
+  "General": {
+    "KeyFile": "$(ProjectDir)\\Havells.Dataverse.CustomConnector.snk",
+    "InputAssemblies": [
+      "$(TargetDir)Microsoft.WindowsAzure.Storage.dll",
+      "$(TargetDir)Microsoft.Azure.KeyVault.Core.dll"
+    ]
+  },
+  "Advanced": {
+    "Log": true,
+    "LogFile": "$(TargetDir)ILMerge.log"
+  }
+}

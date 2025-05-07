@@ -1,0 +1,62 @@
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\HavellsConnection.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.PowerPlatform.Tooling.BatchedTelemetry.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\HavellsConnection.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe.config
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\HavellsConnection.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.SuggestedBindingRedirects.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WebJob.BusinessManagement.AutoMailer\obj\Debug\Havells.CRM.WebJob.BusinessManagement.AutoMailer.csproj.AssemblyReference.cache

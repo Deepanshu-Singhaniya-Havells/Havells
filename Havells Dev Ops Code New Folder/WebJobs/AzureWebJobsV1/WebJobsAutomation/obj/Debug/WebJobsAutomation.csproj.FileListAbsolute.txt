@@ -1,0 +1,10 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\bin\Debug\WebJobsAutomation.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\bin\Debug\WebJobsAutomation.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\bin\Debug\WebJobsAutomation.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\obj\Debug\WebJobsAutomation.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\obj\Debug\WebJobsAutomation.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\obj\Debug\WebJobsAutomation.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\obj\Debug\WebJobsAutomation.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\WebJobsAutomation\obj\Debug\WebJobsAutomation.pdb

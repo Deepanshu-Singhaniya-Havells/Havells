@@ -1,0 +1,83 @@
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\bin\Release\Havells_Plugin.dll
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\bin\Release\Havells_Plugin.pdb
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\obj\Release\Havells_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Users\souhardyac158\Downloads\Havells (1)\Havells\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.dll
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.pdb
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.dll
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.pdb
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\bin\Release\Microsoft.Xrm.Sdk.dll
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+\\IN5CD8070P8R\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\PWCProjects\Havelles\code\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Release\Havells_Plugin.pdb
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Users\vishalk684\Source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\Havells2\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csprojAssemblyReference.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\bin\Debug\Havells_Plugin.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\obj\Release\Havells_Plugin.csproj.CopyComplete
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\obj\Release\Havells_Plugin.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Havells Plugin\Havells_Plugin\obj\Release\Havells_Plugin.pdb

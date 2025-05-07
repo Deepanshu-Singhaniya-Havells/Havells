@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}|ClaimGeneration\\ClaimGeneration.csproj|c:\\users\\39054\\onedrive - havells\\desktop\\havells projects\\azure devops\\webjobs\\azurewebjobsv1\\claimgeneration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C9E9BB-D00C-4FA2-8B7E-BFC5F62BD7C0}|ClaimGeneration\\ClaimGeneration.csproj|solutionrelative:claimgeneration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F2A819-2B7B-4790-8F56-E72B1D65121E}|SyncStatusForSalesOrderPayments\\SyncStatusForSalesOrderPayments.csproj|C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\syncstatusforsalesorderpayments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F2A819-2B7B-4790-8F56-E72B1D65121E}|SyncStatusForSalesOrderPayments\\SyncStatusForSalesOrderPayments.csproj|solutionrelative:syncstatusforsalesorderpayments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A678CA07-98A6-4FD3-806B-D5F49280EF49}|D365WebJobs\\D365WebJobs.csproj|C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\d365webjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A678CA07-98A6-4FD3-806B-D5F49280EF49}|D365WebJobs\\D365WebJobs.csproj|solutionrelative:d365webjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEA058A-EAB5-4095-8ED8-16BCB3480222}|EMS_OA_SAPIntegration\\EMS_OA_SAPIntegration.csproj|C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\ems_oa_sapintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEA058A-EAB5-4095-8ED8-16BCB3480222}|EMS_OA_SAPIntegration\\EMS_OA_SAPIntegration.csproj|solutionrelative:ems_oa_sapintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\ClaimGeneration\\Program.cs",
+              "RelativeDocumentMoniker": "ClaimGeneration\\Program.cs",
+              "ToolTip": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\ClaimGeneration\\Program.cs",
+              "RelativeToolTip": "ClaimGeneration\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:39:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\D365WebJobs\\Program.cs",
+              "RelativeDocumentMoniker": "D365WebJobs\\Program.cs",
+              "ToolTip": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\D365WebJobs\\Program.cs",
+              "RelativeToolTip": "D365WebJobs\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:44:53.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\EMS_OA_SAPIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "EMS_OA_SAPIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\EMS_OA_SAPIntegration\\Program.cs",
+              "RelativeToolTip": "EMS_OA_SAPIntegration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:44:27.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\SyncStatusForSalesOrderPayments\\Program.cs",
+              "RelativeDocumentMoniker": "SyncStatusForSalesOrderPayments\\Program.cs",
+              "ToolTip": "C:\\Users\\39054\\OneDrive - Havells\\Desktop\\Havells Projects\\Azure DevOps\\WebJobs\\AzureWebJobsV1\\SyncStatusForSalesOrderPayments\\Program.cs",
+              "RelativeToolTip": "SyncStatusForSalesOrderPayments\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:43:43.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

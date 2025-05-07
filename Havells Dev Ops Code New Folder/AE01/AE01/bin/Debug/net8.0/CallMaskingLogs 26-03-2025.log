@@ -1,0 +1,12 @@
+{ "timestamp": "49Z", "level": "Info", "message": "Hello from Nlog" }
+{ "timestamp": "50Z", "level": "Error", "message": "Error from Nlog" }
+{ "timestamp": "50Z", "level": "Fatal", "message": "Fatal from Nlog" }
+{ "timestamp": "50Z", "level": "Warn", "message": "Warn from Nlog" }
+{ "timestamp": "10Z", "level": "Info", "message": "Hello from Nlog" }
+{ "timestamp": "10Z", "level": "Error", "message": "Error from Nlog" }
+{ "timestamp": "10Z", "level": "Fatal", "message": "Fatal from Nlog" }
+{ "timestamp": "10Z", "level": "Warn", "message": "Warn from Nlog" }
+{ "timestamp": "59Z", "level": "Info", "message": "Hello from Nlog" }
+{ "timestamp": "59Z", "level": "Error", "message": "Error from Nlog" }
+{ "timestamp": "59Z", "level": "Fatal", "message": "Fatal from Nlog" }
+{ "timestamp": "59Z", "level": "Warn", "message": "Warn from Nlog" }

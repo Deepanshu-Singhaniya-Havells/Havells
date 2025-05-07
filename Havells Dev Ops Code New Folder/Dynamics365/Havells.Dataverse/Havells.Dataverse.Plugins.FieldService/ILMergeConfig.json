@@ -1,0 +1,12 @@
+{
+  "General": {
+    "KeyFile": "$(ProjectDir)\\HavellsDynamicsKey.snk",
+    "InputAssemblies": [
+      "$(TargetDir)Havells.Dataverse.Plugins.CommonLibs.dll"
+    ]
+  },
+  "Advanced": {
+    "Log": true,
+    "LogFile": "$(TargetDir)ILMerge.log"
+  }
+}

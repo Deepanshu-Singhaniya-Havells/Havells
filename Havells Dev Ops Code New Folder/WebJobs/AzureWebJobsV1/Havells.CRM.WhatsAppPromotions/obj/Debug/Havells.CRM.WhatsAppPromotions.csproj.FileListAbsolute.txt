@@ -1,0 +1,91 @@
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.exe.config
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Buffers.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Memory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Buffers.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Memory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\System.ValueTuple.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.SuggestedBindingRedirects.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\RestSharp.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.WhatsAppPromotions\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Havells.CRM.WhatsAppPromotions.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\RestSharp.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Buffers.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Memory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Numerics.Vectors.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Encodings.Web.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Buffers.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Memory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Numerics.Vectors.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Encodings.Web.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Text.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\bin\Debug\System.ValueTuple.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.CRM.WhatsAppPromotions\obj\Debug\Havells.CRM.WhatsAppPromotions.pdb

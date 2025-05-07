@@ -1,0 +1,13 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\ClaimGeneration.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\ClaimGeneration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\ClaimGeneration.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\bin\Release\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ClaimGeneration\obj\Release\ClaimGeneration.pdb

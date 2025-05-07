@@ -1,0 +1,170 @@
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.dll.config
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.pdb
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Havells_Plugin.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Edm.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.OData.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\RestSharp.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\System.Spatial.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Edm.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.OData.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\RestSharp.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\System.Spatial.xml
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\de\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\es\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\fr\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\it\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ja\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ko\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\ru\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csprojAssemblyReference.cache
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csproj.CopyComplete
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.dll
+C:\WorkSpace\Dev\ConsumerAppServices\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.dll.config
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ConsumerApp.BusinessLayer.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\HavellsConnection.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Edm.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.OData.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\RestSharp.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Buffers.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Memory.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Spatial.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Text.Json.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Web.Extensions.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Edm.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.OData.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Buffers.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Memory.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Spatial.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Text.Json.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\System.ValueTuple.xml
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\de\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\es\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\fr\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\it\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ja\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ko\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\ru\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Kuldeep khare\Havells Projects\DevOps\Prod_WebApp\ConsumerApp.BusinessLayer\obj\Debug\ConsumerApp.BusinessLayer.csproj.CopyComplete

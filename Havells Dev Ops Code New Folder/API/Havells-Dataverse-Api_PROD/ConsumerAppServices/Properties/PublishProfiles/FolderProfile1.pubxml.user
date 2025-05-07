@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\WorkSpace\Dev\ConsumerAppServicesLatest_Security_Prod\ConsumerAppServices\Publish</_PublishTargetUrl>
+    <History>True|2024-05-08T04:34:25.7866887Z;True|2024-05-08T10:04:23.7261953+05:30;True|2024-05-08T10:04:21.0096048+05:30;True|2024-05-01T11:48:15.1647213+05:30;True|2024-05-01T11:48:09.6537786+05:30;True|2024-04-30T09:48:26.1064713+05:30;True|2024-04-30T09:48:22.7252834+05:30;True|2024-04-09T15:42:22.0234617+05:30;True|2024-04-09T15:42:18.9359382+05:30;True|2024-04-09T13:39:54.7324430+05:30;True|2024-04-09T13:39:52.3612782+05:30;True|2024-04-03T16:06:49.7150137+05:30;True|2024-04-03T16:06:46.1337398+05:30;True|2023-12-04T10:00:33.2265445+05:30;True|2023-12-04T10:00:26.3772800+05:30;True|2023-12-04T09:21:04.8212726+05:30;True|2023-12-04T09:21:01.5393342+05:30;True|2023-12-04T09:20:57.3945637+05:30;True|2023-10-11T10:51:22.6710817+05:30;True|2023-10-11T10:51:20.5986539+05:30;True|2023-10-11T10:49:52.6184785+05:30;True|2023-10-11T10:49:49.2753354+05:30;True|2023-09-27T16:00:19.8615479+05:30;True|2023-09-27T16:00:16.4742134+05:30;True|2023-07-25T15:54:05.0547874+05:30;True|2023-07-25T15:54:03.1229627+05:30;True|2023-07-23T22:25:31.5595856+05:30;True|2023-07-17T15:09:33.0113584+05:30;True|2023-07-17T15:09:27.9864607+05:30;True|2023-04-14T13:39:43.3776388+05:30;True|2023-04-14T13:39:40.6387278+05:30;True|2023-04-14T13:39:37.1979823+05:30;True|2023-04-04T16:27:22.6260165+05:30;True|2023-04-04T16:27:19.9153814+05:30;True|2023-04-04T16:27:18.0603268+05:30;True|2023-04-04T15:51:16.1526054+05:30;True|2023-04-04T15:51:13.4777886+05:30;True|2023-04-04T15:51:11.2004131+05:30;True|2023-03-13T16:02:25.6213881+05:30;True|2023-03-13T16:02:22.7908163+05:30;True|2023-03-13T16:02:12.3691829+05:30;True|2023-03-13T09:54:36.4758535+05:30;True|2023-03-13T09:54:33.4171182+05:30;True|2023-01-31T09:51:02.3987061+05:30;True|2023-01-31T09:50:57.6834324+05:30;True|2023-01-06T08:35:09.9498601+05:30;True|2023-01-06T08:35:05.5082028+05:30;True|2023-01-05T15:58:30.8253063+05:30;True|2023-01-05T15:58:03.1358869+05:30;True|2023-01-05T15:51:07.5742781+05:30;True|2023-01-05T15:51:04.6320358+05:30;True|2023-01-05T15:19:40.5337838+05:30;True|2023-01-05T15:19:32.5043018+05:30;True|2023-01-02T15:04:34.1870302+05:30;True|2023-01-02T15:04:32.0445668+05:30;True|2023-01-02T14:24:49.6526219+05:30;True|2023-01-02T14:24:47.4722756+05:30;True|2022-12-29T11:55:40.0234071+05:30;True|2022-12-29T11:55:38.2487102+05:30;True|2022-12-29T09:02:49.3043397+05:30;True|2022-12-29T09:02:47.5603491+05:30;True|2022-12-27T16:29:55.0936024+05:30;True|2022-12-27T16:29:50.4395212+05:30;True|2022-12-27T15:54:21.3514061+05:30;True|2022-12-27T15:54:17.7000806+05:30;True|2022-12-27T15:41:44.2148681+05:30;True|2022-12-27T15:41:41.9963418+05:30;True|2022-12-27T15:32:50.7959191+05:30;True|2022-12-27T15:32:46.5234034+05:30;True|2022-12-27T15:32:44.6157288+05:30;True|2022-12-26T11:19:15.1250871+05:30;True|2022-12-26T11:19:06.8922488+05:30;True|2022-12-26T11:19:05.1829549+05:30;True|2022-12-26T11:18:56.5588554+05:30;True|2022-12-23T12:12:22.5022317+05:30;True|2022-12-23T12:12:20.5414854+05:30;True|2022-12-23T11:32:36.4806233+05:30;True|2022-12-23T11:32:33.8538717+05:30;True|2022-12-07T16:18:21.7629277+05:30;True|2022-12-07T16:18:14.0319565+05:30;True|2022-11-17T13:33:34.8248418+05:30;True|2022-11-17T13:33:21.4776383+05:30;True|2022-11-17T13:33:19.5413784+05:30;True|2022-11-17T13:33:16.8336650+05:30;True|2022-03-10T14:09:47.5369183+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ConsumerApp.BusinessLayer.dll">
+      <publishTime>05/08/2024 10:03:15</publishTime>
+    </File>
+    <File Include="bin/ConsumerApp.BusinessLayer.dll.config">
+      <publishTime>03/14/2022 12:16:54</publishTime>
+    </File>
+    <File Include="bin/ConsumerApp.BusinessLayer.pdb">
+      <publishTime>05/08/2024 10:03:15</publishTime>
+    </File>
+    <File Include="bin/ConsumerAppServices.dll">
+      <publishTime>05/08/2024 10:04:04</publishTime>
+    </File>
+    <File Include="bin/ConsumerAppServices.pdb">
+      <publishTime>05/08/2024 10:04:04</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:15</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/HavellsConnection.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Havells_Plugin.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.ActiveDirectory.GraphClient.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Crm.Sdk.Proxy.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>03/14/2022 12:17:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>03/14/2022 12:17:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Clients.ActiveDirectory.pdb">
+      <publishTime>03/14/2022 12:17:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>03/14/2022 12:17:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>03/14/2022 12:17:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>03/09/2022 11:13:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>03/14/2022 12:17:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Xrm.Sdk.Deployment.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Xrm.Sdk.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Xrm.Sdk.Workflow.dll">
+      <publishTime>03/14/2022 12:17:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Xrm.Tooling.Connector.dll">
+      <publishTime>03/14/2022 12:16:59</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/14/2022 12:17:11</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>03/14/2022 12:17:12</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:08</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.dll">
+      <publishTime>03/27/2018 04:54:54</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>03/14/2022 12:17:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>03/27/2018 04:54:54</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:08</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>03/14/2022 12:17:06</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>03/14/2022 12:17:08</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>03/14/2022 12:17:09</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>03/14/2022 12:17:16</publishTime>
+    </File>
+    <File Include="ConsumerAppWS.svc">
+      <publishTime>03/14/2022 12:17:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/14/2022 12:17:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/08/2024 10:04:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

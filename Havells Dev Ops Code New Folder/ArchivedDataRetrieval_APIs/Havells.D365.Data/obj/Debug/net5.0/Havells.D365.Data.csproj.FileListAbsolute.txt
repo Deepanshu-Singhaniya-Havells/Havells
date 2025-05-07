@@ -1,0 +1,60 @@
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.deps.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.AssemblyReference.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfoInputs.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfo.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CoreCompileInputs.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CopyComplete
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.deps.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfoInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfo.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.deps.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.AssemblyReference.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfoInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CopyComplete
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\refint\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.deps.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.AssemblyReference.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfoInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.AssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.csproj.CopyComplete
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\ref\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.Data\obj\Debug\net5.0\Havells.D365.Data.pdb

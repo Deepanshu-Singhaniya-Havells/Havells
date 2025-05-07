@@ -1,0 +1,30 @@
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csprojAssemblyReference.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.CoreCompileInputs.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.exe.config
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.exe
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.pdb
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Havells_Plugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Havells_Plugin.pdb
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.CopyComplete
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.exe
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Havells_Schedulers.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Havells_Plugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\bin\Debug\Newtonsoft.Json.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csprojAssemblyReference.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.AssemblyReference.cache
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\Havells_Schedulers\obj\Debug\Havells_Schedulers.csproj.CoreCompileInputs.cache

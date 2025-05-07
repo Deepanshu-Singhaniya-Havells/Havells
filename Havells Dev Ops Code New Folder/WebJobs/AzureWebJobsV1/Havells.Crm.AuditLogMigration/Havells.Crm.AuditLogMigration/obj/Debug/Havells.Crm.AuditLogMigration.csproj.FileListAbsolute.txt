@@ -1,0 +1,35 @@
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Havells.Crm.AuditLogMigration.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Havells.Crm.AuditLogMigration\Havells.Crm.AuditLogMigration\obj\Debug\Havells.Crm.AuditLogMigration.pdb

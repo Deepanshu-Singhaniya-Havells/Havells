@@ -1,0 +1,15 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\ChannelPartnerSyncJob.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\ChannelPartnerSyncJob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\ChannelPartnerSyncJob.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\RestSharp.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\ChannelPartnerSyncJob\obj\Debug\ChannelPartnerSyncJob.pdb

@@ -1,0 +1,26 @@
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Enquiry Type Sync.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\Enquiry Type Sync\obj\Debug\Enquiry Type Sync.pdb

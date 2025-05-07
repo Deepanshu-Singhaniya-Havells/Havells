@@ -1,0 +1,379 @@
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.exe
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.deps.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.dev.json
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\RestSharp.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.AssemblyReference.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfoInputs.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfo.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CoreCompileInputs.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.Manifest.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.xml
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\scopedcss\bundle\Havells.D365.API.styles.css
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.input.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.output.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorCoreGenerate.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cache
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cs
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CopyComplete
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.pdb
+C:\Users\601478\OneDrive - Havells\Desktop\D365API\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.genruntimeconfig.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.deps.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.dev.json
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\RestSharp.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfoInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfo.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.Manifest.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\scopedcss\bundle\Havells.D365.API.styles.css
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.input.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.output.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorCoreGenerate.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cs
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.genruntimeconfig.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.exe
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.deps.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.dev.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\RestSharp.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.AssemblyReference.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfoInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\scopedcss\bundle\Havells.D365.API.styles.css
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.Manifest.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.input.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.output.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorCoreGenerate.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CopyComplete
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\refint\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.genruntimeconfig.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project Code\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\appsettings.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.exe
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.deps.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.runtimeconfig.dev.json
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\NPOI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\RestSharp.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Data.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Entities.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\bin\Debug\net5.0\Havells.D365.Services.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.AssemblyReference.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfoInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.AssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.Manifest.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\staticwebassets\Havells.D365.API.StaticWebAssets.xml
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\scopedcss\bundle\Havells.D365.API.styles.css
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.input.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.TagHelpers.output.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorCoreGenerate.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cache
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.RazorTargetAssemblyInfo.cs
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.Views.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.csproj.CopyComplete
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\ref\Havells.D365.API.dll
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.pdb
+C:\Kuldeep khare\Havells Projects\Codebase\Saurabh Codebase\Prod_Code\Virtual Entity Project\Havells.D365.API1.1\Havells.D365.API\obj\Debug\net5.0\Havells.D365.API.genruntimeconfig.cache

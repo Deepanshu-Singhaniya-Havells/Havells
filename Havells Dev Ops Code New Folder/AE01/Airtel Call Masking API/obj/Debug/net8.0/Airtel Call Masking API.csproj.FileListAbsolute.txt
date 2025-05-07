@@ -1,0 +1,33 @@
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\appsettings.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Airtel Call Masking API.exe
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Airtel Call Masking API.deps.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Airtel Call Masking API.runtimeconfig.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Airtel Call Masking API.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Airtel Call Masking API.pdb
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.csproj.AssemblyReference.cache
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.AssemblyInfoInputs.cache
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.AssemblyInfo.cs
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.csproj.CoreCompileInputs.cache
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets\msbuild.Airtel Call Masking API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets\msbuild.build.Airtel Call Masking API.props
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Airtel Call Masking API.props
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Airtel Call Masking API.props
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\scopedcss\bundle\Airtel Call Masking API.styles.css
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\refint\Airtel Call Masking API.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.pdb
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel Call Masking API.genruntimeconfig.cache
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\ref\Airtel Call Masking API.dll
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\obj\Debug\net8.0\Airtel C.B77F4FD5.Up2Date
+C:\Users\39054\OneDrive - Havells\Desktop\Havells Projects\AE01\Airtel Call Masking API\bin\Debug\net8.0\NLog.dll

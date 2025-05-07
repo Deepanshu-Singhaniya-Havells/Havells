@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14371673-3FFB-4F3A-A31C-2C5E9E924670}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Havells_Plugin</RootNamespace>
+    <AssemblyName>Havells_Plugin</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Havells6547.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Crm.Sdk.Proxy">
+      <HintPath>..\..\SDK\Microsoft.CrmSdk.XrmTooling.PluginRegistrationTool.9.0.0.7\tools\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk">
+      <HintPath>..\..\SDK\Microsoft.CrmSdk.XrmTooling.PluginRegistrationTool.9.0.0.7\tools\Microsoft.Xrm.Sdk.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountEn\Common.cs" />
+    <Compile Include="AccountEn\PostCreate.cs" />
+    <Compile Include="AccountEn\PostUpdate.cs" />
+    <Compile Include="Address\AddressMDMAsync.cs" />
+    <Compile Include="Address\AddressPostUpdate.cs" />
+    <Compile Include="Address\AddressPreCreate.cs" />
+    <Compile Include="AMC Staging\PreCreate.cs" />
+    <Compile Include="Appointment\PreCreate.cs" />
+    <Compile Include="AssignmentMatrix\PreCreate.cs" />
+    <Compile Include="Campaign\PostUpdate.cs" />
+    <Compile Include="Campaign\PreCreate.cs" />
+    <Compile Include="Characterstics\PreCreate.cs" />
+    <Compile Include="ClaimLine\PostCreate.cs" />
+    <Compile Include="ClaimLine\PostUpdate.cs" />
+    <Compile Include="ClaimLine\PreCreate.cs" />
+    <Compile Include="Consumer App Bridge\PreCreate.cs" />
+    <Compile Include="ContactEn\Common.cs" />
+    <Compile Include="ContactEn\PostCreate.cs" />
+    <Compile Include="ContactEn\PostUpdate.cs" />
+    <Compile Include="ContactEn\PreUpdate.cs" />
+    <Compile Include="ContactEn\PreCreate.cs" />
+    <Compile Include="CustomerAsset\LoyaltyEligibleAssetData.cs" />
+    <Compile Include="CustomerAsset\PostCreate.cs" />
+    <Compile Include="CustomerAsset\PostCreateAsync.cs" />
+    <Compile Include="CustomerAsset\PostUpdate.cs" />
+    <Compile Include="CustomerAsset\PreCreate.cs" />
+    <Compile Include="Early Bound\OptionSets.cs" />
+    <Compile Include="Early Bound\Xrm.cs" />
+    <Compile Include="Email\PreCreate.cs" />
+    <Compile Include="Enquiry\PostCreate.cs" />
+    <Compile Include="Enquiry\PostUpdate.cs" />
+    <Compile Include="Enquiry\PreCreate.cs" />
+    <Compile Include="Estimate Header\PostUpdate.cs" />
+    <Compile Include="GrnLine\PostUpdate.cs" />
+    <Compile Include="HealthIndicator\PostCreate.cs" />
+    <Compile Include="HealthIndicator\PreCreate.cs" />
+    <Compile Include="HelperIntegration\EMSDataHelper.cs" />
+    <Compile Include="HelperIntegration\HelperDataContracts.cs" />
+    <Compile Include="HelpserClasses\Helper.cs" />
+    <Compile Include="HelpserClasses\HelperAccount.cs" />
+    <Compile Include="HelpserClasses\HelperCallAllocationRouting.cs" />
+    <Compile Include="HelpserClasses\HelperInvJournal.cs" />
+    <Compile Include="HelpserClasses\HelperPO.cs" />
+    <Compile Include="HelpserClasses\HelperInventory.cs" />
+    <Compile Include="HelpserClasses\HelperShootSMS.cs" />
+    <Compile Include="HelpserClasses\HelperWarranty.cs" />
+    <Compile Include="HelpserClasses\HelperWarrantyModule.cs" />
+    <Compile Include="HelpserClasses\HelperWOProduct.cs" />
+    <Compile Include="HelpserClasses\HelperWorkOrder.cs" />
+    <Compile Include="HelpserClasses\KKGCodeHashing.cs" />
+    <Compile Include="HelpserClasses\WarrantyEngine.cs" />
+    <Compile Include="ICA Uploader\ICAUploader.cs" />
+    <Compile Include="Integration Staging\PostCreate.cs" />
+    <Compile Include="InventoryJournal\PostCreate.cs" />
+    <Compile Include="InventoryRequest\PostUpdate.cs" />
+    <Compile Include="Inventory\PreCreate.cs" />
+    <Compile Include="Invoice\PostCreate.cs" />
+    <Compile Include="IPGeo\BigGeoPostCreate.cs" />
+    <Compile Include="IPGeo\PostUpdate.cs" />
+    <Compile Include="Job Service\PreCreate.cs" />
+    <Compile Include="JobStatuses\StatusTransition.cs" />
+    <Compile Include="Notes\PostCreate.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="PerformaInvoice\ClaimOperations.cs" />
+    <Compile Include="PerformaInvoice\ClaimOverHeadLineCreate.cs" />
+    <Compile Include="PerformaInvoice\ClaimOverHeadLineUpdate.cs" />
+    <Compile Include="PerformaInvoice\PostUpdate.cs" />
+    <Compile Include="PerformaInvoice\PreUpdate.cs" />
+    <Compile Include="PMS Uploader\PreCreate.cs" />
+    <Compile Include="Product Request Header\PostUpdate.cs" />
+    <Compile Include="ProductEn\MaterialPrice.cs" />
+    <Compile Include="ProductEn\PostUpdate.cs" />
+    <Compile Include="ProductRequest\Action.cs" />
+    <Compile Include="ProductRequest\PostCreate.cs" />
+    <Compile Include="ProductRequest\PostUpdate.cs" />
+    <Compile Include="ProductRequest\PreCreate.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemotePayment\PostUpdate.cs" />
+    <Compile Include="ReturnHeader\PostUpdate.cs" />
+    <Compile Include="ReturnLine\PostUpdate.cs" />
+    <Compile Include="SAWActivityApproval\PostUpdate.cs" />
+    <Compile Include="SAWActivityApproval\PreCreate.cs" />
+    <Compile Include="SAWActivityApproval\PreUpdate.cs" />
+    <Compile Include="SAWActivity\PostCreate.cs" />
+    <Compile Include="SAWActivity\PreCreate.cs" />
+    <Compile Include="SAWActivity\CommonLib.cs" />
+    <Compile Include="SMS\PreCreate.cs" />
+    <Compile Include="SMS\SMSPostCreate.cs" />
+    <Compile Include="StagingDivisionMGMapping\PostCreate.cs" />
+    <Compile Include="StagingJSONPartner\PostCreate_Async.cs" />
+    <Compile Include="SystemUsers\PostUpdate_BusinessUnit.cs" />
+    <Compile Include="SystemUsers\PostUpdate_ResyncSecurityRole.cs" />
+    <Compile Include="SystemUsers\PreUpdate.cs" />
+    <Compile Include="TechnicianProfile\PostUpdate.cs" />
+    <Compile Include="TechnicianProfile\PreCreate.cs" />
+    <Compile Include="Tender\TenderLinePostUpdateProdType.cs" />
+    <Compile Include="Tender\TenderLinePostUpdate.cs" />
+    <Compile Include="Tender\TenderPostUpdateStackHolderChange.cs" />
+    <Compile Include="TimeOffRequest\PreCreate.cs" />
+    <Compile Include="TravelExpense\Common.cs" />
+    <Compile Include="TravelExpense\PostCreate.cs" />
+    <Compile Include="TravelExpense\PostUpdate.cs" />
+    <Compile Include="UserSecurityRoleExtension\PostCreate.cs" />
+    <Compile Include="UserSecurityRoleExtension\PostUpdate.cs" />
+    <Compile Include="Warranty Template\Warranty_Template_Lines.cs" />
+    <Compile Include="Warranty Template\WarrantyTemplateValidations.cs" />
+    <Compile Include="Warranty Template\WarrantyTemplate\CheckDuplicacy.cs" />
+    <Compile Include="Warranty Template\WarrantyTemplate\PostCreate.cs" />
+    <Compile Include="WOProduct\ActionAddSparePartToJobProduct.cs" />
+    <Compile Include="WOProduct\ActionPopulateSpares.cs" />
+    <Compile Include="WOProduct\PostCreate.cs" />
+    <Compile Include="WOProduct\PostUpdate.cs" />
+    <Compile Include="WOProduct\PostUpdateV2.cs" />
+    <Compile Include="WOProduct\PostUpdateVer1.cs" />
+    <Compile Include="WOProduct\PostUpdate_JobProduct_ReplacedPart_Warranty.cs" />
+    <Compile Include="WorkOrderBulkUpload\PostCreate.cs" />
+    <Compile Include="WorkOrderBulkUpload\PreCreate.cs" />
+    <Compile Include="WorkOrderIncident\PreUpdate.cs" />
+    <Compile Include="WorkOrder\Common.cs" />
+    <Compile Include="WorkOrder\PostCreate.cs" />
+    <Compile Include="WorkOrder\PostUpdate_AddDefectiveInventory.cs" />
+    <Compile Include="WorkOrder\PostUpdate_Asynch.cs" />
+    <Compile Include="WorkOrder\PostUpdate_AutoAssign.cs" />
+    <Compile Include="WorkOrder\PostUpdate_SendHighPriorityJobSMS.cs" />
+    <Compile Include="WorkOrder\PreCreateForDefaultValues.cs" />
+    <Compile Include="WorkOrder\PreUpdateFieldValidations.cs" />
+    <Compile Include="WorkOrder\PreUpdate_QuantityValidaion.cs" />
+    <Compile Include="WorkOrder\PreUpdate_SubStatus.cs" />
+    <Compile Include="WorkOrderIncident\Common.cs" />
+    <Compile Include="WorkOrderIncident\PostCreate.cs" />
+    <Compile Include="WorkOrderIncident\PostCreateAsync.cs" />
+    <Compile Include="WorkOrderIncident\PostCreateAsync_PopulateSpares.cs" />
+    <Compile Include="WorkOrderIncident\PostUpdate.cs" />
+    <Compile Include="WorkOrderIncident\PreCreate.cs" />
+    <Compile Include="WorkOrder\PostUpdate.cs" />
+    <Compile Include="WorkOrder\PreCreate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\coretools\CrmSvcUtil.exe.config" />
+    <None Include="bin\coretools\LicenseTerms.docx" />
+    <None Include="Havells6547.snk" />
+    <None Include="ILMerge.props" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Havells_Plugin.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\Havells_Plugin.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\Havells_Plugin.csproj.CopyComplete" />
+    <None Include="obj\Release\Havells_Plugin.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Release\Havells_Plugin.csprojResolveAssemblyReference.cache" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\coretools\CrmSvcUtil.exe" />
+    <Content Include="bin\coretools\CrmSvcUtil.xml" />
+    <Content Include="bin\coretools\Microsoft.Crm.Sdk.Proxy.dll" />
+    <Content Include="bin\coretools\Microsoft.IdentityModel.Clients.ActiveDirectory.dll" />
+    <Content Include="bin\coretools\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Sdk.Deployment.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Sdk.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Connector.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.CrmConnectControl.dll" />
+    <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Ui.Styles.dll" />
+    <Content Include="bin\coretools\Other Redistributable.txt" />
+    <Content Include="bin\coretools\SolutionPackager.exe" />
+    <Content Include="bin\Debug\Havells_Plugin.dll" />
+    <Content Include="bin\Debug\Havells_Plugin.pdb" />
+    <Content Include="bin\Debug\Microsoft.Crm.Sdk.Proxy.dll" />
+    <Content Include="bin\Debug\Microsoft.Xrm.Sdk.dll" />
+    <Content Include="ILMergeOrder.txt" />
+    <Content Include="obj\Debug\Havells_Plugin.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Havells_Plugin.dll" />
+    <Content Include="obj\Debug\Havells_Plugin.pdb" />
+    <Content Include="obj\Release\Havells_Plugin.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\Havells_Plugin.dll" />
+    <Content Include="obj\Release\Havells_Plugin.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Account\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Release\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

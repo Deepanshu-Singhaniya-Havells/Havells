@@ -1,0 +1,13 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\CustomerAssetWarrantyDailyRefresh.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\CustomerAssetWarrantyDailyRefresh.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\CustomerAssetWarrantyDailyRefresh.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\bin\Release\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyDailyRefresh\obj\Release\CustomerAssetWarrantyDailyRefresh.pdb

@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+#regForm {
+  background-color: #ffffff;
+  margin: 20px auto;
+  font-family: Raleway;
+  max-width: 375px;	border: 1px solid #ccc;
+}
+.req {color: red; font-size: 12px; padding: 20px;}
+.txt {color: rgb(83, 83, 83); font-size: 12px; padding: 20px; clear: both;}
+textarea {color: rgb(83, 83, 83); font-size: 12px; padding: 20px;}
+
+h1 {
+
+    margin-bottom: 50px;  padding: 0; margin: 0;
+}
+
+
+
+
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+.btn {
+  margin: 20px;
+  background: red;
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.user-rating {
+  direction: rtl;
+  font-size: 20px;
+  unicode-bidi: bidi-override;
+  padding-left:13px;
+  display: inline-block;
+}
+.user-rating input {
+  opacity: 0;
+  position: relative;
+  left: -15px;
+  z-index: 2;
+  cursor: pointer;
+}
+.user-rating span.star:before {
+  color: #777777;
+  content:"ï€†";
+  /*padding-right: 5px;*/
+}
+.user-rating span.star {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  z-index: 1;
+}
+.user-rating span {
+  margin-left: -15px;
+}
+.user-rating span.star:before {
+  color: #777777;
+  content:"\f006";
+  /*padding-right: 5px;*/
+}
+.user-rating input:hover + span.star:before, .user-rating input:hover + span.star ~ span.star:before, .user-rating input:checked + span.star:before, .user-rating input:checked + span.star ~ span.star:before {
+  color: red;
+  content:"\f005";
+}
+
+.selected-rating{
+  color:red;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+
+label { float: left;}
+.radio {
+  display: none;
+}
+.radio ~ span {
+  font-size: 3rem;
+  filter: grayscale(100);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.radio:checked ~ span {
+  filter: grayscale(0);
+  font-size: 3rem;
+}

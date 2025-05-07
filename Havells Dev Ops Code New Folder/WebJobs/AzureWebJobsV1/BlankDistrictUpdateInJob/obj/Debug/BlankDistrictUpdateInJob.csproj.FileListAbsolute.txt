@@ -1,0 +1,53 @@
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\BlankDistrictUpdateInJob.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Buffers.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Memory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Numerics.Vectors.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Text.Encodings.Web.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Text.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Buffers.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Memory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Numerics.Vectors.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Text.Encodings.Web.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Text.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\bin\Debug\System.ValueTuple.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\BlankDistrictUpdateInJob\obj\Debug\BlankDistrictUpdateInJob.csproj.AssemblyReference.cache

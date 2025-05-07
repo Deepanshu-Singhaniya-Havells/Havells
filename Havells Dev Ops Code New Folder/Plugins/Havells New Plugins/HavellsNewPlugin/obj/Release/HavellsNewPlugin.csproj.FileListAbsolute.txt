@@ -1,0 +1,2 @@
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Production\HavellsNewPlugin\obj\Release\HavellsNewPlugin.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Production\HavellsNewPlugin\obj\Release\HavellsNewPlugin.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\PriceListSync.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\PriceListSync.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\PriceListSync.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\RestSharp.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\obj\Debug\PriceListSync.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\obj\Debug\PriceListSync.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\obj\Debug\PriceListSync.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\obj\Debug\PriceListSync.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\PriceListSync\obj\Debug\PriceListSync.csproj.AssemblyReference.cache

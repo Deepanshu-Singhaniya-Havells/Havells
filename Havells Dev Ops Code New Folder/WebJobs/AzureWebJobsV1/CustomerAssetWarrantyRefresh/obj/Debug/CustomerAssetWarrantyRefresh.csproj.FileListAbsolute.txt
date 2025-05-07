@@ -1,0 +1,14 @@
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\CustomerAssetWarrantyRefresh.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\CustomerAssetWarrantyRefresh.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\CustomerAssetWarrantyRefresh.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\CustomerAssetWarrantyRefresh\obj\Debug\CustomerAssetWarrantyRefresh.csproj.CoreCompileInputs.cache

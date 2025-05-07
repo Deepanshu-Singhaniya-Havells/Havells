@@ -1,0 +1,46 @@
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\WhatsApp Campaign Module.exe.config
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\WhatsApp Campaign Module.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\WhatsApp Campaign Module.pdb
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\HavellsConnection.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Havells_Plugin.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\OMSMail.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\RestSharp.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Newtonsoft.Json.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Text.Json.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Memory.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.ValueTuple.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Buffers.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\OMSMail.pdb
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\OMSMail.exe.config
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Text.Json.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Memory.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.ValueTuple.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Buffers.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.csproj.AssemblyReference.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.csproj.SuggestedBindingRedirects.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.exe.config
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.csproj.CoreCompileInputs.cache
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.csproj.CopyComplete
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.exe
+C:\Users\37906\OneDrive - Havells\Desktop\Havells Projects\Official Work\ConsoleApp\ConsoleApp\WhatsApp Campaign Module\WhatsApp Campaign Module\obj\Debug\WhatsApp Campaign Module.pdb

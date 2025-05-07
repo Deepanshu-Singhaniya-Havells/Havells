@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<input type="hidden" id="jobId" value="@ViewBag.JobId" />
+<input type="hidden" id="status" value="@ViewBag.Status" />
+
+<div id="feedBackForm" style="display:none">
+    <form id="regForm">
+        <h1><img src="~/img/header.jpg"></h1>
+        <!-- One "tab" for each step in the form: -->
+
+        <div class="txt">
+            Based on your overall experience how likely are you to recommend  to your friends &amp; family.<br>
+            <span class="user-rating">
+                <input type="radio" name="rating" value="10"><span class="star"></span>
+
+                <input type="radio" name="rating" value="9"><span class="star"></span>
+
+                <input type="radio" name="rating" value="8"><span class="star"></span>
+
+                <input type="radio" name="rating" value="7"><span class="star"></span>
+
+                <input type="radio" name="rating" value="6"><span class="star"></span>
+
+                <input type="radio" name="rating" value="5"><span class="star"></span>
+
+                <input type="radio" name="rating" value="4"><span class="star"></span>
+
+                <input type="radio" name="rating" value="3"><span class="star"></span>
+
+                <input type="radio" name="rating" value="2"><span class="star"></span>
+
+                <input type="radio" name="rating" value="1"><span class="star"></span>
+
+                <input type="radio" name="rating" value="0"><span class="star"></span>
+            </span>
+        </div>
+
+        <div class="req" id="ratingMessage" style="display:none">Please Provide Us A Rating *</div>
+
+        <div id="user-rating-form">
+            <div id="QuestionSection">
+            </div>
+            <div class="req" id="answerMessage" style="display:none">Answer Is Required *</div>
+            <div class="txt">
+                Based on Your Services Experience how Would you rate @ViewBag.BrandName<br><br>
+
+                <div class="item">
+                    <label for="0">
+                        <input class="radio" type="radio" name="feedback" id="0" value="0">
+                        <span>🤬</span>
+                    </label>
+                </div>
+
+                <div class="item">
+                    <label for="1">
+                        <input class="radio" type="radio" name="feedback" id="1" value="1">
+                        <span>🙁</span>
+                    </label>
+                </div>
+
+                <div class="item">
+                    <label for="2">
+                        <input class="radio" type="radio" name="feedback" id="2" value="2">
+                        <span>😶</span>
+                    </label>
+                </div>
+
+                <div class="item">
+                    <label for="3">
+                        <input class="radio" type="radio" name="feedback" id="3" value="3">
+                        <span>😁</span>
+                    </label>
+                </div>
+
+                <div class="item">
+                    <label for="4">
+                        <input class="radio" type="radio" name="feedback" id="4" value="4">
+                        <span>😍</span>
+                    </label>
+                </div>
+
+                <div class="req" id="feedsmileMessage" style="display:none">Required *</div>
+            </div>
+
+
+            <div class="txt">
+                We appriciate your valuable Feedback<br>
+                <textarea style="width: 100%; " cols="5" id="feedBack" rows="2" placeholder="Enter Your Answer"></textarea>
+            </div>
+            <div class="req" id="feedBackMessage" style="display:none">Feedback Is Required *</div>
+            <button class="btn" id="btnSave" type="button">Submit</button>
+        </div>
+    </form>
+</div>
+
+<div id="messageForm" style="display:none">
+    <form id="regForm">
+        <h1><img src="~/img/header.jpg"></h1>
+        <!-- One "tab" for each step in the form: -->
+        <div class="txt" style="font-size: 22px;">
+            Thanks<br>
+        </div>
+        <div class="txt">
+            <span id="resultMessage"></span> <br>
+        </div>
+    </form>
+</div>
+
+

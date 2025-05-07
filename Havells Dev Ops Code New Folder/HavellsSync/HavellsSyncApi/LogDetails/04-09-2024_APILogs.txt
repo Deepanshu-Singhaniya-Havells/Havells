@@ -1,0 +1,10 @@
+04-09-2024 09:55:19.301 Message: ======================= Enter in GetUserInfo Method =======================
+04-09-2024 09:55:40.863 Message: Mobile No.: 9711727805 and Request: {"data":{"SourceType":"6"}}
+04-09-2024 09:55:44.144 Message: Start GetUserInfo Manager
+04-09-2024 09:56:07.926 Message: Searching for Consumer Mobile
+04-09-2024 09:56:08.149 Message: Consumer Mobile found.
+04-09-2024 09:56:08.446 Message: Fetch Starts Consumer Assets for LR
+04-09-2024 09:56:08.527 Message: Fetch Ends Consumer Assets for LR
+04-09-2024 09:56:08.532 Message: Eligible Consumer Assets found.
+04-09-2024 09:56:08.535 Message: End GetUserInfo Manager
+04-09-2024 09:56:08.539 Message: Return From GetUserInfo

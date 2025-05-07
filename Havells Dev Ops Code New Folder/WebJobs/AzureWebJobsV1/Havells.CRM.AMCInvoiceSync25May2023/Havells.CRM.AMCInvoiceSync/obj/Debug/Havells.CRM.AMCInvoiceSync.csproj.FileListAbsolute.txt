@@ -1,0 +1,128 @@
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\HavellsConnection.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\RestSharp.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\HavellsConnection.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\RestSharp.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\HavellsConnection.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\RestSharp.xml
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.SuggestedBindingRedirects.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells_Plugin.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Buffers.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Memory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Buffers.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Memory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.ValueTuple.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells.CRM.AMCInvoiceSync.pdb
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Havells_Plugin.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Buffers.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Memory.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Json.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.ValueTuple.dll
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Buffers.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Memory.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Text.Json.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\bin\Debug\System.ValueTuple.xml
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.AssemblyReference.cache
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe.config
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.csproj.CopyComplete
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.exe
+C:\Projects\Code\Havells.Crm\Havells.CRM.AMCInvoiceSync\obj\Debug\Havells.CRM.AMCInvoiceSync.pdb

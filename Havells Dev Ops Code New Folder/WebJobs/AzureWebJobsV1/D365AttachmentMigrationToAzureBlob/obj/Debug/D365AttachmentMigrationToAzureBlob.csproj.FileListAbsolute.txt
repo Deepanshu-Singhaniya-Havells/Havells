@@ -1,0 +1,73 @@
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Net.Http.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Newtonsoft.Json.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csprojAssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\D365AttachmentMigrationToAzureBlob.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Buffers.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Memory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Numerics.Vectors.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Text.Encodings.Web.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Text.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Buffers.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Memory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Numerics.Vectors.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Text.Encodings.Web.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Text.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\bin\Debug\System.ValueTuple.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\D365AttachmentMigrationToAzureBlob\obj\Debug\D365AttachmentMigrationToAzureBlob.csproj.AssemblyReference.cache

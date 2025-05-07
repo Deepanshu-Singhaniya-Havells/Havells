@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Services\\Havells.D365.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\Havells.D365.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\Havells.D365.Data.csproj",
+        "projectName": "Havells.D365.Data",
+        "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\Havells.D365.Data.csproj",
+        "packagesPath": "C:\\Users\\33632\\.nuget\\packages\\",
+        "outputPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33632\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj": {
+                "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj",
+        "projectName": "Havells.D365.Entities",
+        "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj",
+        "packagesPath": "C:\\Users\\33632\\.nuget\\packages\\",
+        "outputPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33632\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Services\\Havells.D365.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Services\\Havells.D365.Services.csproj",
+        "projectName": "Havells.D365.Services",
+        "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Services\\Havells.D365.Services.csproj",
+        "packagesPath": "C:\\Users\\33632\\.nuget\\packages\\",
+        "outputPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33632\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\Havells.D365.Data.csproj": {
+                "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Data\\Havells.D365.Data.csproj"
+              },
+              "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj": {
+                "projectPath": "C:\\Kuldeep khare\\Havells Projects\\Codebase\\Saurabh Codebase\\Prod_Code\\Virtual Entity Project\\Havells.D365.API1.1\\Havells.D365.Entities\\Havells.D365.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

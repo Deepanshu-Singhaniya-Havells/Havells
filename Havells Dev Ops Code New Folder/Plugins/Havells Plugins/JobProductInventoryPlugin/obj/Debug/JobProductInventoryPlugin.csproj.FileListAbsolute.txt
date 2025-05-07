@@ -1,0 +1,39 @@
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.pdb
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.pdb
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csprojAssemblyReference.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CoreCompileInputs.cache
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CopyComplete
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.dll
+C:\Users\puneetj643\source\Workspaces\MicrosoftDynamics365\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csprojAssemblyReference.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\JobProductInventoryPlugin.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Havells_Plugin.pdb
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.AssemblyReference.cache
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.csproj.CopyComplete
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.dll
+C:\Kuldeep khare\PwC_D365DevCode\LatestCode_PlugIns\Plugin\JobProductInventoryPlugin\obj\Debug\JobProductInventoryPlugin.pdb

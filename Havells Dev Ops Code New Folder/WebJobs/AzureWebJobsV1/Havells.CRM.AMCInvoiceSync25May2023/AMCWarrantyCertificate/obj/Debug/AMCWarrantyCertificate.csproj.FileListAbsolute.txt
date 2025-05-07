@@ -1,0 +1,253 @@
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe.config
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.pdb
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Spire.Doc.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Spire.Pdf.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Spire.License.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.mshtml.dll
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Spire.Doc.xml
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Spire.License.xml
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csprojAssemblyReference.cache
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CopyComplete
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Users\HL610812.HODOMAIN\OneDrive - Havells\Desktop\Code\DevWorkspace_AzureWebjob21Dec2020\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\libeay32.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\libgcc_s_dw2-1.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\mingwm10.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\ssleay32.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\wkhtmltox0.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Common.Logging.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Pechkin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Pechkin.Synchronized.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Buffers.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Memory.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Text.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.mshtml.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Buffers.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Memory.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Text.Json.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libeay32.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libgcc_s_dw2-1.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\mingwm10.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\ssleay32.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\wkhtmltox0.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe.config
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Common.Logging.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.Synchronized.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.mshtml.dll
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.xml
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csprojAssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CopyComplete
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Users\35405\OneDrive - Havells\Desktop\TFS CODE\D365\Development\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Users\35405\OneDrive - Havells\Desktop\Code\Havells.Crm (10-10-2022)\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.AssemblyReference.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.SuggestedBindingRedirects.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libeay32.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libgcc_s_dw2-1.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\mingwm10.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\ssleay32.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\wkhtmltox0.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe.config
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.pdb
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Common.Logging.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.Synchronized.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.mshtml.dll
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.xml
+C:\Users\35405\OneDrive - Havells\Saurabh Tripathi\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CopyComplete
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libeay32.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\libgcc_s_dw2-1.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\mingwm10.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\ssleay32.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\wkhtmltox0.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe.config
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.exe
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\AMCWarrantyCertificate.pdb
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Common.Logging.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Pechkin.Synchronized.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Edm.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Data.OData.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.mshtml.dll
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Buffers.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Memory.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Text.Json.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\bin\Debug\System.ValueTuple.xml
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.AssemblyReference.cache
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.csproj.CopyComplete
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.exe
+C:\Projects\Code\Havells.Crm\AMCWarrantyCertificate\obj\Debug\AMCWarrantyCertificate.pdb

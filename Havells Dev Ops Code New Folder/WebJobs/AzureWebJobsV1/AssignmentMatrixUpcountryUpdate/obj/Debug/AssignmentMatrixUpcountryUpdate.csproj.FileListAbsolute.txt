@@ -1,0 +1,25 @@
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.pdb
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Havells_Plugin.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Newtonsoft.Json.dll
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.exe.config
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.csproj.CopyComplete
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.exe
+C:\MyWorkSpace\Projects\D365_Havells\DevCode\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\AssignmentMatrixUpcountryUpdate.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Havells_Plugin.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\AssignmentMatrixUpcountryUpdate\obj\Debug\AssignmentMatrixUpcountryUpdate.pdb

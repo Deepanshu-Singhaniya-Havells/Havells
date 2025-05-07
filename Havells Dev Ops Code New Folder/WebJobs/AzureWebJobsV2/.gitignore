@@ -1,0 +1,42 @@
+**/bin
+**/obj
+**/.vs
+*.user
+*.suo
+*.sln.ide
+*.cache
+_ReSharper.*
+
+# vscode files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# MSTest
+*.testrunconfig
+*.testsettings
+
+# User files*.identmap
+*.user
+*.usersettings
+*.Cache
+*.VC.db
+
+# Build Output*.buildresults
+*.log
+[Bb]in/
+[Oo]bj/
+
+# Solution files
+*.sln
+*.suo
+*.vbproj.user
+*.csproj.user
+*.vcxproj.filters
+*.vcxproj.user
+*.filter
+*.resharper
+*.DbProj.UserOptions
+*.vssscc

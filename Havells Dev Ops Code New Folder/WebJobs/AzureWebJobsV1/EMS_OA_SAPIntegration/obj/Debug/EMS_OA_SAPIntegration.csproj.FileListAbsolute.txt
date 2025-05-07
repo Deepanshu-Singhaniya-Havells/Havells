@@ -1,0 +1,13 @@
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\EMS_OA_SAPIntegration.exe.config
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\EMS_OA_SAPIntegration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\EMS_OA_SAPIntegration.pdb
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\RestSharp.dll
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\bin\Debug\RestSharp.xml
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\obj\Debug\EMS_OA_SAPIntegration.csproj.AssemblyReference.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\obj\Debug\EMS_OA_SAPIntegration.csproj.CoreCompileInputs.cache
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\obj\Debug\EMS_OA_SAPIntegration.csproj.CopyComplete
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\obj\Debug\EMS_OA_SAPIntegration.exe
+C:\Kuldeep khare\DevWorkspace\AzureWebJobs\EMS_OA_SAPIntegration\obj\Debug\EMS_OA_SAPIntegration.pdb
